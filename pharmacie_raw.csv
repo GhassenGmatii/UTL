@@ -1,0 +1,6 @@
+patient_id,prenom,nom,age,poids_kg,ville,telephone,email,mutuelle,medicament,dose_par_jour,duree_traitement,prix_DT,medecin,specialite,date_ordonnance,date_dispensation,renouvellement
+PAT4907,Mariem,Bouzid,0,58.1,Tunis,+216 54 239 129,mariem.bouzid@email.tn,CNAM,Ventoline 100mcg,2.5,12,58.38,Dr. Hamrouni,Pneumologue,2023-02-18,2023-02-19,oui
+PAT5922_BIS,AMINE,Jebali,30,95.0,Monastir,+216 68 387 936,amine.jebali@email.tn,STAR,Aspirin 100mg,0.9,15,116.4,Dr. Elloumi,Endocrinologue,2023-05-12,2023-05-14,oui
+PAT1157,Amine,Ben Ali,53,104.5,Medenine,+216 55 195 144,amine.benali@email.tn,CNAM,Augmentin 1g,0.8,19,,Dr. Hamrouni,Pneumologue,2022-10-19,2022-10-24,NON
+PAT2410,Nadia,Souissi,64,81.0,Sousse,+216 22 980 560,nadia.souissi@email.tn,STAR,Levothyrox 50mcg,1.6,6,,Dr. Mabrouk,Endocrinologue,20/09/2024,2024-09-23,Non
+PAT2060,Salma,Gharbi,48,86.7,Bizerte,,salma.gharbi@email.tn,GAT,Coversyl 5mg,0.8,29,53.84,Dr. Baccouche,Diabétologue,2023-07-14,2023-07-19,NON
