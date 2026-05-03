@@ -1,0 +1,8 @@
+customer_id,name,email,phone,city,country,signup_date,amount
+1,  Alice  ,Alice@example.com, +33 6 12 34 56 78 ,Paris,FR,2024-01-10,120.5
+2,Bob,bob@example.com,+33-6-11-22-33-44,Lyon,FR,2024/02/03,99.9
+3,ALICE,alice@example.com,0612345678,Paris,FR,10-01-2024,120.5
+4,Charlie,charlie#example.com,not_a_phone,Marseille,FR,2024-13-01,5000
+5,,david@example.com,+216 20 000 000,Tunis,TN,2023-11-22,80
+6,Eve,eve@example.com,,Sfax,TN,2024-03-01,-30
+7,Bob,bob@example.com,+33-6-11-22-33-44,Lyon,FR,2024/02/03,99.9

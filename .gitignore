@@ -1,0 +1,51 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# ── Environnement virtuel ─────────────────────────────────────────────────────
+venv/
+env/
+.venv/
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── Données brutes (potentiellement volumineuses) ─────────────────────────────
+# Décommentez si vous ne voulez pas versionner les CSV
+# data/raw/
+
+# ── Données traitées (générées automatiquement par le pipeline) ───────────────
+data/processed/
+
+# ── Modèles ML (générés par train.py) ────────────────────────────────────────
+data/models/
+
+# ── Rapports (générés automatiquement) ───────────────────────────────────────
+reports/
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+
+# ── Base de données locale ────────────────────────────────────────────────────
+*.db
+*.sqlite
+
+# ── Cache ─────────────────────────────────────────────────────────────────────
+.cache/
+.pytest_cache/
+
+# ── Streamlit ─────────────────────────────────────────────────────────────────
+.streamlit/

@@ -1,0 +1,406 @@
+patient_id,prenom,nom,age,poids_kg,ville,telephone,email,mutuelle,medicament,dose_par_jour,duree_traitement,prix_DT,medecin,specialite,date_ordonnance,date_dispensation,renouvellement
+PAT4907,Mariem,Bouzid,0,58.1,Tunis,+216 54 239 129,mariem.bouzid@email.tn,CNAM,Ventoline 100mcg,2.5,12,58.38,Dr. Hamrouni,Pneumologue,2023-02-18,2023-02-19,oui
+PAT5922_BIS,AMINE,Jebali,30,95.0,Monastir,+216 68 387 936,amine.jebali@email.tn,STAR,Aspirin 100mg,0.9,15,116.4,Dr. Elloumi,Endocrinologue,2023-05-12,2023-05-14,oui
+PAT1157,Amine,Ben Ali,53,104.5,Medenine,+216 55 195 144,amine.benali@email.tn,CNAM,Augmentin 1g,0.8,19,,Dr. Hamrouni,Pneumologue,2022-10-19,2022-10-24,NON
+PAT2410,Nadia,Souissi,64,81.0,Sousse,+216 22 980 560,nadia.souissi@email.tn,STAR,Levothyrox 50mcg,1.6,6,,Dr. Mabrouk,Endocrinologue,20/09/2024,2024-09-23,Non
+PAT2060,Salma,Gharbi,48,86.7,Bizerte,,salma.gharbi@email.tn,GAT,Coversyl 5mg,0.8,29,53.84,Dr. Baccouche,Diabétologue,2023-07-14,2023-07-19,NON
+PAT5000,Salma,Ghanem,51,116.6,Tataouine,+216 91 210268,salma.ghanem@email.tn,GAT,Atorvastatine 20mg,2.0,23,29.0,Dr. Elloumi,Gastrologue,2024-04-03,2024-04-07,OUI
+PAT5001,Riadh,Kacem,99,60.0,Kebili,+216 22 429365,riadh.kacem@email.tn,CNAM,Sertraline 50mg,0.6,28,168.16,Dr. Oueslati,Endocrinologue,2024-01-21,2024-01-24,Non
+PAT5002,Mariem,Elloumi,20,93.2,Monastir,+216 77 521909,mariem.elloumi@email.tn,STAR,Lisinopril 10mg,0.5,29,65.33,Dr. Sfaxi,Pneumologue,2023-02-28,2023-03-01,OUI
+PAT5003,Fatima,Sfaxi,91,118.2,Tunis,+216 34 165725,fatima.sfaxi@email.tn,CNSS,Atorvastatine 20mg,0.7,23,82.67,Dr. Ghanem,Pneumologue,2023-09-01,2023-09-01,NON
+PAT5004,Nadia,Bouzid,2,110.2,Nabeul,+216 26 589492,nadia.bouzid@email.tn,CNSS,Amoxicilline 500mg,1.6,22,190.29,Dr. Mabrouk,Pneumologue,2023-11-12,2023-11-13,oui
+PAT5005,Wicem,Khouja,8,51.1,Tozeur,+216 21 748531,wicem.khouja@email.tn,GAT,Metformine 1000mg,1.1,11,125.9,Dr. Ayachi,Endocrinologue,2023-02-04,2023-02-04,Non
+PAT5006,Aïda,Oueslati,35,62.8,Ariana,+216 23 905889,aïda.oueslati@email.tn,STAR,Metformine 1000mg,1.6,26,113.87,Dr. Elloumi,Neurologue,2024-04-21,2024-04-22,oui
+PAT5007,Fatima,Amri,89,81.5,Mahdia,+216 93 323165,fatima.amri@email.tn,CNRPS,Amoxicilline 500mg,2.8,20,72.04,Dr. Khouja,Généraliste,2024-04-06,2024-04-09,Non
+PAT5008,Salma,Mabrouk,61,72.8,Kairouan,+216 72 448951,salma.mabrouk@email.tn,CNSS,Coversyl 5mg,1.4,17,36.78,Dr. Mabrouk,Endocrinologue,2023-01-15,2023-01-19,oui
+PAT5009,Riadh,Hamza,64,51.1,Monastir,+216 28 220151,riadh.hamza@email.tn,SNCFT,Ramipril 5mg,1.5,12,11.05,Dr. Ayachi,Néphrologue,2023-05-19,2023-05-21,oui
+PAT5010,Leila,Souissi,80,99.8,Mahdia,+216 54 229312,leila.souissi@email.tn,SNCFT,Amoxicilline 500mg,2.0,14,78.11,Dr. Triki,Rhumatologue,2023-02-10,2023-02-13,oui
+PAT5011,Hana,Ghanem,6,109.5,Medenine,+216 31 475713,hana.ghanem@email.tn,CRDA,Lisinopril 10mg,0.7,27,69.09,Dr. Mabrouk,Rhumatologue,2024-12-28,2025-01-01,OUI
+PAT5012,Youssef,Triki,98,91.4,Tunis,+216 54 301664,youssef.triki@email.tn,CNRPS,Clopidogrel 75mg,1.5,19,145.52,Dr. Sfaxi,Généraliste,2023-01-05,2023-01-06,Non
+PAT5013,Youssef,Khouja,13,84.6,Sousse,+216 28 318126,youssef.khouja@email.tn,sans,Lisinopril 10mg,0.8,17,48.33,Dr. Triki,Pneumologue,2023-08-29,2023-09-01,oui
+PAT5014,Zainab,Hachicha,95,98.7,Tataouine,+216 42 827270,zainab.hachicha@email.tn,STAR,Sertraline 50mg,1.5,15,48.58,Dr. Sfaxi,Pédiatre,2024-06-08,2024-06-10,Non
+PAT5015,Karim,Triki,85,111.6,Medenine,+216 61 164044,karim.triki@email.tn,STAR,Coversyl 5mg,1.2,25,175.58,Dr. Elloumi,Pneumologue,2023-01-28,2023-01-31,OUI
+PAT5016,Fatima,Hamza,43,79.2,Tozeur,+216 81 252906,fatima.hamza@email.tn,CNRPS,Augmentin 1g,1.3,27,180.26,Dr. Mabrouk,Endocrinologue,2023-08-19,2023-08-19,oui
+PAT5017,Leila,Ben Ali,0,66.0,Djerba,+216 81 237848,leila.ben ali@email.tn,SNCFT,Ventoline 100mcg,2.5,13,67.91,Dr. Elloumi,Endocrinologue,2024-12-10,2024-12-12,OUI
+PAT5018,Sabrine,Gharbi,8,83.9,Medenine,+216 70 637833,sabrine.gharbi@email.tn,GAT,Coversyl 5mg,1.3,19,41.98,Dr. Mabrouk,Diabétologue,2024-11-02,2024-11-02,non
+PAT5019,Tarek,Triki,51,75.5,Gafsa,+216 77 293075,tarek.triki@email.tn,CNAM,Atorvastatine 20mg,1.1,11,104.48,Dr. Oueslati,Pneumologue,2023-04-23,2023-04-27,OUI
+PAT5020,Ali,Ayachi,55,52.6,Nabeul,+216 21 737147,ali.ayachi@email.tn,STAR,Atorvastatine 20mg,0.6,9,75.56,Dr. Mabrouk,Pédiatre,2024-01-20,2024-01-22,Non
+PAT5021,Sabrine,Triki,1,87.2,Beja,+216 51 781669,sabrine.triki@email.tn,CNAM,Augmentin 1g,1.1,8,25.36,Dr. Mabrouk,Pédiatre,2023-07-03,2023-07-05,OUI
+PAT5022,Zainab,Khouja,16,101.0,Sfax,+216 43 468452,zainab.khouja@email.tn,CNSS,Sertraline 50mg,2.1,10,85.78,Dr. Sfaxi,Diabétologue,2024-05-25,2024-05-25,NON
+PAT5023,Khaled,Baccouche,72,72.5,Sidi Bouzid,+216 89 151663,khaled.baccouche@email.tn,sans,Augmentin 1g,0.6,24,71.93,Dr. Baccouche,Généraliste,2024-02-07,2024-02-08,non
+PAT5024,Salma,Amri,66,106.7,Hammamet,+216 39 758271,salma.amri@email.tn,GAT,Coversyl 5mg,0.7,13,141.28,Dr. Elloumi,Diabétologue,2024-10-01,2024-10-02,NON
+PAT5025,Sabrine,Ghanem,0,97.3,Ben Arous,+216 76 925816,sabrine.ghanem@email.tn,CNSS,Ibuprofen 200mg,1.0,14,59.01,Dr. Ayachi,Néphrologue,2023-05-24,2023-05-25,oui
+PAT5026,Omar,Baccouche,59,68.3,Jendouba,+216 20 465871,omar.baccouche@email.tn,STAR,Ramipril 5mg,2.9,9,181.08,Dr. Ayachi,Pneumologue,2023-01-09,2023-01-09,NON
+PAT5027,Khaled,Jebali,98,99.0,Nabeul,+216 22 628787,khaled.jebali@email.tn,GAT,Ibuprofen 200mg,2.7,28,178.68,Dr. Khouja,Généraliste,2024-09-19,2024-09-21,non
+PAT5028,Fatima,Hachicha,71,105.0,Gafsa,+216 44 867836,fatima.hachicha@email.tn,CNSS,Augmentin 1g,1.2,18,114.26,Dr. Hamrouni,Néphrologue,2023-06-12,2023-06-16,Non
+PAT5029,Fatima,Khouja,40,62.3,Sousse,+216 87 909760,fatima.khouja@email.tn,CRDA,Aspirin 100mg,1.7,20,151.83,Dr. Sfaxi,Généraliste,2024-01-27,2024-01-29,OUI
+PAT5030,Fatima,Gharbi,16,71.6,Tunis,+216 67 825451,fatima.gharbi@email.tn,CNRPS,Amoxicilline 500mg,1.8,26,60.39,Dr. Baccouche,Rhumatologue,2024-10-31,2024-11-04,oui
+PAT5031,Zainab,Mabrouk,50,112.4,Sidi Bouzid,+216 46 392890,zainab.mabrouk@email.tn,sans,Coversyl 5mg,2.5,5,119.61,Dr. Sfaxi,Neurologue,2024-04-25,2024-04-29,NON
+PAT5032,Hana,Ghanem,60,84.9,Gafsa,+216 23 727234,hana.ghanem@email.tn,CNSS,Amoxicilline 500mg,2.4,21,198.96,Dr. Hamrouni,Neurologue,2023-06-07,2023-06-11,NON
+PAT5033,Omar,Ben Ali,45,114.0,Tataouine,+216 56 511927,omar.ben ali@email.tn,CRDA,Levothyrox 50mcg,1.3,18,193.66,Dr. Triki,Pneumologue,2023-04-09,2023-04-12,non
+PAT5034,Zainab,Souissi,96,55.3,Medenine,+216 51 368246,zainab.souissi@email.tn,CNRPS,Lisinopril 10mg,1.2,7,42.2,Dr. Ayachi,Endocrinologue,2024-07-19,2024-07-20,non
+PAT5035,Leila,Amri,66,89.9,Sidi Bouzid,+216 43 866577,leila.amri@email.tn,CNAM,Oméprazole 20mg,2.0,26,78.14,Dr. Sfaxi,Pédiatre,2024-09-30,2024-10-02,OUI
+PAT5036,Amine,Mahjoubi,1,72.6,Bizerte,+216 52 730152,amine.mahjoubi@email.tn,CRDA,Atorvastatine 20mg,2.3,20,115.04,Dr. Ayachi,Néphrologue,2024-11-12,2024-11-13,NON
+PAT5037,Karim,Mahjoubi,98,67.9,Bizerte,+216 43 764076,karim.mahjoubi@email.tn,SNCFT,Coversyl 5mg,0.7,11,105.29,Dr. Ayachi,Neurologue,2024-11-15,2024-11-18,Non
+PAT5038,Samir,Hachicha,64,55.0,Ariana,+216 35 584299,samir.hachicha@email.tn,CRDA,Amoxicilline 500mg,2.7,19,81.36,Dr. Ayachi,Diabétologue,2024-12-27,2024-12-29,non
+PAT5039,Karim,Souissi,24,60.9,Gafsa,+216 81 805660,karim.souissi@email.tn,STAR,Aspirin 100mg,2.6,26,57.55,Dr. Elloumi,Cardiologue,2024-11-12,2024-11-14,NON
+PAT5040,Tarek,Ben Ali,59,72.9,Hammamet,+216 27 351451,tarek.ben ali@email.tn,CNRPS,Amoxicilline 500mg,1.0,9,96.88,Dr. Triki,Néphrologue,2023-12-16,2023-12-18,non
+PAT5041,Aïda,Oueslati,54,59.7,Jendouba,+216 35 194476,aïda.oueslati@email.tn,GAT,Levothyrox 50mcg,2.9,14,71.36,Dr. Sfaxi,Diabétologue,2024-10-18,2024-10-20,oui
+PAT5042,Samir,Khouja,91,102.1,Jendouba,+216 81 283062,samir.khouja@email.tn,CNSS,Augmentin 1g,1.6,16,87.7,Dr. Sfaxi,Pédiatre,2023-02-27,2023-02-28,Non
+PAT5043,Nadia,Gharbi,0,81.0,Jendouba,+216 67 120056,nadia.gharbi@email.tn,CNAM,Atorvastatine 20mg,2.2,25,131.27,Dr. Ghanem,Gastrologue,2023-07-08,2023-07-12,NON
+PAT5044,Riadh,Ayachi,21,101.1,Mahdia,+216 86 840427,riadh.ayachi@email.tn,CNSS,Levothyrox 50mcg,1.9,23,153.99,Dr. Khouja,Neurologue,2024-11-27,2024-12-01,oui
+PAT5045,Samir,Kacem,77,56.4,Tataouine,+216 66 965264,samir.kacem@email.tn,CNAM,Ventoline 100mcg,1.3,24,43.31,Dr. Hamrouni,Cardiologue,2023-08-06,2023-08-07,oui
+PAT5046,Youssef,Hachicha,47,106.5,Ben Arous,+216 52 418717,youssef.hachicha@email.tn,CNRPS,Amoxicilline 500mg,1.6,27,19.13,Dr. Ayachi,Pneumologue,2023-04-10,2023-04-11,non
+PAT5047,Leila,Ben Ali,51,76.2,Bizerte,+216 38 987225,leila.ben ali@email.tn,CNRPS,Levothyrox 50mcg,1.8,28,135.15,Dr. Ayachi,Néphrologue,2024-05-30,2024-05-31,OUI
+PAT5048,Fatima,Oueslati,91,91.0,Tataouine,+216 43 814635,fatima.oueslati@email.tn,CRDA,Ventoline 100mcg,1.5,5,97.07,Dr. Triki,Rhumatologue,2024-11-21,2024-11-23,oui
+PAT5049,Amine,Mahjoubi,11,77.0,Ariana,+216 52 604999,amine.mahjoubi@email.tn,CRDA,Ibuprofen 200mg,2.8,16,62.05,Dr. Mabrouk,Gastrologue,2023-01-12,2023-01-13,non
+PAT5050,Zainab,Ayachi,34,73.6,Jendouba,+216 27 712956,zainab.ayachi@email.tn,STAR,Metformine 1000mg,2.6,6,59.53,Dr. Triki,Neurologue,2023-07-15,2023-07-16,oui
+PAT5051,Sabrine,Khouja,74,111.4,Ben Arous,+216 55 160692,sabrine.khouja@email.tn,CNRPS,Fluoxetine 20mg,2.9,8,43.71,Dr. Khouja,Gastrologue,2024-04-01,2024-04-03,NON
+PAT5052,Riadh,Triki,48,101.2,Jendouba,+216 55 924273,riadh.triki@email.tn,CRDA,Oméprazole 20mg,1.1,28,174.75,Dr. Mabrouk,Rhumatologue,2023-02-06,2023-02-09,oui
+PAT5053,Samir,Ben Ali,54,102.6,Jendouba,+216 49 998320,samir.ben ali@email.tn,sans,Clopidogrel 75mg,1.8,24,167.03,Dr. Khouja,Pneumologue,2023-12-08,2023-12-12,non
+PAT5054,Riadh,Kacem,58,57.0,Tataouine,+216 31 295004,riadh.kacem@email.tn,STAR,Amoxicilline 500mg,2.8,16,77.43,Dr. Hamrouni,Diabétologue,2024-12-18,2024-12-21,non
+PAT5055,Youssef,Kacem,82,84.5,Ariana,+216 35 973332,youssef.kacem@email.tn,STAR,Amoxicilline 500mg,0.7,16,72.45,Dr. Baccouche,Endocrinologue,2024-04-13,2024-04-16,OUI
+PAT5056,Mohammed,Ben Ali,52,105.4,Tataouine,+216 76 887494,mohammed.ben ali@email.tn,CNRPS,Sertraline 50mg,0.7,14,195.11,Dr. Sfaxi,Rhumatologue,2024-02-02,2024-02-03,NON
+PAT5057,Sabrine,Gharbi,4,101.6,Sidi Bouzid,+216 94 631089,sabrine.gharbi@email.tn,CNSS,Amoxicilline 500mg,2.9,13,154.69,Dr. Ghanem,Endocrinologue,2024-05-06,2024-05-06,non
+PAT5058,Salma,Hamza,6,79.8,Monastir,+216 59 139081,salma.hamza@email.tn,CNSS,Ramipril 5mg,1.5,6,25.46,Dr. Hamrouni,Pneumologue,2023-06-14,2023-06-16,Non
+PAT5059,Aïda,Baccar,7,76.2,Gabes,+216 84 338067,aïda.baccar@email.tn,CRDA,Atorvastatine 20mg,1.1,11,197.34,Dr. Oueslati,Neurologue,2023-05-12,2023-05-15,oui
+PAT5060,Wicem,Gharbi,69,99.6,Tataouine,+216 38 303196,wicem.gharbi@email.tn,CNRPS,Sertraline 50mg,1.4,11,90.6,Dr. Elloumi,Endocrinologue,2024-06-14,2024-06-16,non
+PAT5061,Amine,Ghanem,44,50.8,Jendouba,+216 77 130355,amine.ghanem@email.tn,CRDA,Atorvastatine 20mg,0.8,13,151.4,Dr. Elloumi,Gastrologue,2024-01-22,2024-01-26,oui
+PAT5062,Nadia,Khouja,91,117.4,Manouba,+216 82 855195,nadia.khouja@email.tn,CNRPS,Clopidogrel 75mg,1.2,28,110.39,Dr. Triki,Généraliste,2023-04-27,2023-04-28,NON
+PAT5063,Amine,Sfaxi,43,118.5,Beja,+216 64 921052,amine.sfaxi@email.tn,GAT,Sertraline 50mg,1.3,20,110.26,Dr. Baccouche,Endocrinologue,2023-07-22,2023-07-25,OUI
+PAT5064,Leila,Elloumi,35,88.8,Beja,+216 39 738353,leila.elloumi@email.tn,CRDA,Coversyl 5mg,0.9,21,142.19,Dr. Baccouche,Gastrologue,2024-02-19,2024-02-19,oui
+PAT5065,Ali,Mahjoubi,53,90.9,Kasserine,+216 35 272502,ali.mahjoubi@email.tn,CNRPS,Clopidogrel 75mg,0.6,16,192.15,Dr. Triki,Rhumatologue,2023-12-24,2023-12-27,Non
+PAT5066,Aïda,Sfaxi,23,93.4,Kebili,+216 27 109337,aïda.sfaxi@email.tn,sans,Amoxicilline 500mg,1.0,12,77.14,Dr. Elloumi,Gastrologue,2023-06-27,2023-06-30,NON
+PAT5067,Samir,Gharbi,91,75.2,Gafsa,+216 83 597562,samir.gharbi@email.tn,sans,Coversyl 5mg,2.2,21,63.16,Dr. Hamrouni,Pédiatre,2024-12-24,2024-12-28,NON
+PAT5068,Aïda,Baccouche,91,69.0,Sousse,+216 32 265421,aïda.baccouche@email.tn,SNCFT,Levothyrox 50mcg,0.7,10,190.46,Dr. Baccouche,Neurologue,2023-09-13,2023-09-17,NON
+PAT5069,Ali,Mahjoubi,46,114.3,Sousse,+216 29 578007,ali.mahjoubi@email.tn,CNRPS,Ramipril 5mg,2.7,17,41.32,Dr. Khouja,Cardiologue,2024-01-09,2024-01-09,non
+PAT5070,Aïda,Khouja,17,119.1,Sidi Bouzid,+216 68 228778,aïda.khouja@email.tn,CNRPS,Clopidogrel 75mg,2.0,29,194.28,Dr. Sfaxi,Neurologue,2024-11-19,2024-11-23,OUI
+PAT5071,Amine,Mabrouk,32,82.8,Tataouine,+216 20 100404,amine.mabrouk@email.tn,CNRPS,Ibuprofen 200mg,0.6,10,141.43,Dr. Hamrouni,Généraliste,2024-12-09,2024-12-13,OUI
+PAT5072,Riadh,Baccar,2,88.9,Sousse,+216 72 897348,riadh.baccar@email.tn,CRDA,Oméprazole 20mg,2.4,23,57.0,Dr. Ayachi,Cardiologue,2023-03-19,2023-03-19,OUI
+PAT5073,Sabrine,Mabrouk,0,116.8,Kasserine,+216 96 943523,sabrine.mabrouk@email.tn,GAT,Ramipril 5mg,1.1,21,153.83,Dr. Baccouche,Gastrologue,2023-02-03,2023-02-06,non
+PAT5074,Mohammed,Baccar,94,57.9,Sfax,+216 45 608153,mohammed.baccar@email.tn,GAT,Augmentin 1g,1.8,26,167.96,Dr. Ayachi,Diabétologue,2023-11-02,2023-11-05,non
+PAT5075,Sabrine,Ayachi,64,88.6,Ben Arous,+216 24 225917,sabrine.ayachi@email.tn,CNSS,Clopidogrel 75mg,2.7,29,122.09,Dr. Triki,Endocrinologue,2023-10-30,2023-11-03,oui
+PAT5076,Fatima,Sfaxi,84,94.8,Gabes,+216 94 415826,fatima.sfaxi@email.tn,CNSS,Aspirin 100mg,2.8,6,76.61,Dr. Sfaxi,Généraliste,2023-04-08,2023-04-09,oui
+PAT5077,Zainab,Sfaxi,29,88.8,Tataouine,+216 70 555102,zainab.sfaxi@email.tn,CNAM,Lisinopril 10mg,2.3,29,107.66,Dr. Ayachi,Néphrologue,2023-12-01,2023-12-04,Non
+PAT5078,Mariem,Souissi,29,93.5,Manouba,+216 70 667376,mariem.souissi@email.tn,SNCFT,Levothyrox 50mcg,2.9,8,97.28,Dr. Sfaxi,Généraliste,2024-02-05,2024-02-06,NON
+PAT5079,Tarek,Gharbi,16,68.1,Mahdia,+216 88 323777,tarek.gharbi@email.tn,STAR,Atorvastatine 20mg,2.1,6,72.46,Dr. Ayachi,Pneumologue,2023-02-12,2023-02-14,non
+PAT5080,Nadia,Amri,22,59.0,Kairouan,+216 94 766997,nadia.amri@email.tn,CRDA,Coversyl 5mg,2.2,8,44.56,Dr. Ayachi,Rhumatologue,2024-11-26,2024-11-26,OUI
+PAT5081,Sabrine,Souissi,66,111.2,Medenine,+216 46 431868,sabrine.souissi@email.tn,CRDA,Amoxicilline 500mg,2.9,23,17.77,Dr. Ghanem,Endocrinologue,2023-01-05,2023-01-06,non
+PAT5082,Fatima,Amri,91,74.3,Tataouine,+216 41 441396,fatima.amri@email.tn,STAR,Clopidogrel 75mg,1.9,9,97.55,Dr. Sfaxi,Pédiatre,2023-12-12,2023-12-13,OUI
+PAT5083,Amine,Ben Ali,48,85.2,Jendouba,+216 64 312890,amine.ben ali@email.tn,SNCFT,Ventoline 100mcg,0.6,29,101.42,Dr. Ayachi,Néphrologue,2023-08-02,2023-08-04,non
+PAT5084,Aïda,Triki,62,76.4,Kasserine,+216 45 688579,aïda.triki@email.tn,CNAM,Oméprazole 20mg,2.5,21,123.48,Dr. Ghanem,Cardiologue,2024-11-22,2024-11-23,NON
+PAT5085,Tarek,Hamza,27,75.8,Hammamet,+216 21 772108,tarek.hamza@email.tn,GAT,Clopidogrel 75mg,0.7,28,35.29,Dr. Sfaxi,Rhumatologue,2023-01-03,2023-01-05,non
+PAT5086,Samir,Baccouche,17,81.3,Hammamet,+216 34 670559,samir.baccouche@email.tn,CRDA,Amoxicilline 500mg,1.2,9,44.63,Dr. Sfaxi,Neurologue,2023-02-08,2023-02-08,oui
+PAT5087,Ali,Kacem,16,64.8,Ariana,+216 63 366776,ali.kacem@email.tn,GAT,Ibuprofen 200mg,2.7,24,100.05,Dr. Ayachi,Gastrologue,2024-01-29,2024-01-31,NON
+PAT5088,Wicem,Hamza,17,56.1,Sidi Bouzid,+216 53 637198,wicem.hamza@email.tn,CNAM,Atorvastatine 20mg,2.4,21,117.25,Dr. Triki,Gastrologue,2024-07-07,2024-07-07,Non
+PAT5089,Zainab,Bouzid,5,113.0,Tunis,+216 83 699991,zainab.bouzid@email.tn,STAR,Ventoline 100mcg,1.7,10,125.1,Dr. Elloumi,Endocrinologue,2023-10-16,2023-10-20,non
+PAT5090,Omar,Oueslati,21,65.8,Tataouine,+216 89 564374,omar.oueslati@email.tn,sans,Lisinopril 10mg,1.7,15,26.7,Dr. Sfaxi,Néphrologue,2023-12-16,2023-12-16,non
+PAT5091,Zainab,Mahjoubi,2,86.7,Beja,+216 59 890756,zainab.mahjoubi@email.tn,CNRPS,Aspirin 100mg,3.0,10,85.59,Dr. Khouja,Rhumatologue,2023-03-16,2023-03-19,OUI
+PAT5092,Fatima,Sfaxi,78,107.2,Ben Arous,+216 70 360669,fatima.sfaxi@email.tn,CNRPS,Amoxicilline 500mg,2.8,19,111.66,Dr. Mabrouk,Néphrologue,2023-01-26,2023-01-28,non
+PAT5093,Leila,Amri,44,103.9,Gabes,+216 89 928533,leila.amri@email.tn,sans,Augmentin 1g,2.3,24,106.45,Dr. Hamrouni,Pédiatre,2023-04-23,2023-04-26,OUI
+PAT5094,Salma,Hamza,46,99.5,Jendouba,+216 33 341983,salma.hamza@email.tn,CNRPS,Ventoline 100mcg,0.7,15,187.08,Dr. Ayachi,Pneumologue,2023-09-16,2023-09-16,oui
+PAT5095,Mohammed,Jebali,5,73.6,Manouba,+216 29 182180,mohammed.jebali@email.tn,STAR,Metformine 1000mg,0.7,16,48.33,Dr. Elloumi,Endocrinologue,2023-06-17,2023-06-18,non
+PAT5096,Leila,Ben Ali,83,67.8,Bizerte,+216 92 872042,leila.ben ali@email.tn,CRDA,Clopidogrel 75mg,1.7,10,88.25,Dr. Baccouche,Gastrologue,2024-08-28,2024-08-28,NON
+PAT5097,Aïda,Oueslati,68,108.1,Manouba,+216 69 227309,aïda.oueslati@email.tn,GAT,Aspirin 100mg,2.8,15,188.28,Dr. Sfaxi,Pneumologue,2024-08-10,2024-08-12,Non
+PAT5098,Zainab,Mabrouk,34,114.9,Mahdia,+216 83 143925,zainab.mabrouk@email.tn,CNSS,Clopidogrel 75mg,0.6,12,167.31,Dr. Hamrouni,Cardiologue,2023-08-17,2023-08-20,Non
+PAT5099,Sabrine,Ayachi,29,107.8,Sfax,+216 56 622244,sabrine.ayachi@email.tn,sans,Coversyl 5mg,1.1,18,109.38,Dr. Mabrouk,Neurologue,2023-05-12,2023-05-12,non
+PAT5100,Mohammed,Ghanem,41,77.5,Beja,+216 59 290279,mohammed.ghanem@email.tn,SNCFT,Oméprazole 20mg,1.6,18,180.94,Dr. Oueslati,Néphrologue,2024-09-28,2024-09-28,OUI
+PAT5101,Hana,Gharbi,22,80.7,Tunis,+216 44 692016,hana.gharbi@email.tn,sans,Atorvastatine 20mg,2.7,27,111.05,Dr. Ayachi,Neurologue,2024-09-07,2024-09-09,OUI
+PAT5102,Wicem,Hamza,38,58.2,Gafsa,+216 25 323810,wicem.hamza@email.tn,SNCFT,Fluoxetine 20mg,2.1,12,141.81,Dr. Mabrouk,Cardiologue,2024-05-14,2024-05-18,non
+PAT5103,Leila,Sfaxi,32,87.3,Nabeul,+216 46 198723,leila.sfaxi@email.tn,CNSS,Coversyl 5mg,3.0,29,69.23,Dr. Mabrouk,Pédiatre,2024-02-15,2024-02-15,OUI
+PAT5104,Aïda,Gharbi,67,89.9,Sfax,+216 29 465060,aïda.gharbi@email.tn,CNRPS,Aspirin 100mg,2.7,5,29.55,Dr. Ghanem,Diabétologue,2023-06-08,2023-06-11,non
+PAT5105,Fatima,Bouzid,87,92.3,Nabeul,+216 34 856892,fatima.bouzid@email.tn,STAR,Amoxicilline 500mg,1.8,19,87.7,Dr. Sfaxi,Rhumatologue,2024-11-15,2024-11-16,NON
+PAT5106,Hana,Ayachi,26,94.9,Djerba,+216 55 592313,hana.ayachi@email.tn,CNRPS,Coversyl 5mg,1.1,9,167.09,Dr. Ghanem,Pneumologue,2023-09-11,2023-09-12,Non
+PAT5107,Amine,Hamza,37,65.9,Tozeur,+216 42 494030,amine.hamza@email.tn,sans,Levothyrox 50mcg,1.2,15,39.14,Dr. Baccouche,Généraliste,2023-05-21,2023-05-22,NON
+PAT5108,Samir,Amri,88,67.9,Beja,+216 79 913738,samir.amri@email.tn,CNSS,Metformine 1000mg,2.8,8,184.56,Dr. Baccouche,Diabétologue,2023-05-13,2023-05-17,Non
+PAT5109,Ali,Oueslati,71,95.6,Tunis,+216 50 209945,ali.oueslati@email.tn,CRDA,Coversyl 5mg,0.7,23,149.92,Dr. Oueslati,Cardiologue,2023-10-23,2023-10-23,non
+PAT5110,Leila,Amri,85,113.7,Kasserine,+216 20 963021,leila.amri@email.tn,CNRPS,Levothyrox 50mcg,1.1,18,45.4,Dr. Oueslati,Endocrinologue,2023-01-01,2023-01-03,OUI
+PAT5111,Omar,Amri,39,92.6,Gabes,+216 66 418408,omar.amri@email.tn,sans,Metformine 1000mg,2.4,14,162.54,Dr. Sfaxi,Rhumatologue,2023-04-27,2023-04-28,oui
+PAT5112,Samir,Mahjoubi,40,58.0,Monastir,+216 44 863978,samir.mahjoubi@email.tn,GAT,Coversyl 5mg,2.8,11,75.92,Dr. Sfaxi,Pneumologue,2024-02-22,2024-02-24,non
+PAT5113,Youssef,Mabrouk,16,91.1,Bizerte,+216 78 301579,youssef.mabrouk@email.tn,CRDA,Amoxicilline 500mg,2.8,26,43.51,Dr. Khouja,Cardiologue,2023-06-29,2023-07-03,OUI
+PAT5114,Sabrine,Triki,87,71.8,Tataouine,+216 48 194270,sabrine.triki@email.tn,CNSS,Metformine 1000mg,1.2,22,136.07,Dr. Triki,Diabétologue,2023-03-25,2023-03-25,NON
+PAT5115,Hana,Sfaxi,48,89.0,Bizerte,+216 82 306524,hana.sfaxi@email.tn,STAR,Lisinopril 10mg,1.0,11,123.12,Dr. Mabrouk,Diabétologue,2023-05-21,2023-05-23,NON
+PAT5116,Mariem,Bouzid,55,112.9,Kairouan,+216 51 159676,mariem.bouzid@email.tn,CNRPS,Augmentin 1g,2.1,20,117.32,Dr. Oueslati,Gastrologue,2023-01-18,2023-01-18,OUI
+PAT5117,Mohammed,Kacem,77,100.0,Sidi Bouzid,+216 85 237717,mohammed.kacem@email.tn,CNRPS,Ramipril 5mg,1.6,22,104.43,Dr. Ghanem,Endocrinologue,2024-10-05,2024-10-05,non
+PAT5118,Omar,Baccar,7,110.3,Bizerte,+216 22 178623,omar.baccar@email.tn,SNCFT,Augmentin 1g,1.2,23,132.36,Dr. Khouja,Pédiatre,2024-01-15,2024-01-15,oui
+PAT5119,Zainab,Souissi,86,118.5,Kairouan,+216 51 752465,zainab.souissi@email.tn,CNAM,Coversyl 5mg,2.7,12,15.15,Dr. Sfaxi,Diabétologue,2024-03-18,2024-03-22,OUI
+PAT5120,Zainab,Mabrouk,71,57.3,Mahdia,+216 86 139986,zainab.mabrouk@email.tn,SNCFT,Coversyl 5mg,2.1,19,146.95,Dr. Khouja,Endocrinologue,2023-04-06,2023-04-08,non
+PAT5121,Khaled,Hamza,15,77.8,Ariana,+216 56 745588,khaled.hamza@email.tn,GAT,Ramipril 5mg,1.5,27,180.3,Dr. Triki,Pneumologue,2023-01-07,2023-01-08,oui
+PAT5122,Samir,Kacem,6,101.5,Medenine,+216 38 267292,samir.kacem@email.tn,sans,Aspirin 100mg,2.7,22,179.61,Dr. Baccouche,Néphrologue,2024-12-09,2024-12-12,OUI
+PAT5123,Fatima,Mahjoubi,10,68.2,Gabes,+216 21 194914,fatima.mahjoubi@email.tn,STAR,Levothyrox 50mcg,2.0,16,167.82,Dr. Elloumi,Généraliste,2023-09-13,2023-09-13,Non
+PAT5124,Salma,Triki,97,110.3,Hammamet,+216 43 356713,salma.triki@email.tn,STAR,Sertraline 50mg,1.9,18,99.5,Dr. Ghanem,Gastrologue,2024-12-21,2024-12-22,oui
+PAT5125,Sabrine,Souissi,80,68.8,Kasserine,+216 59 595553,sabrine.souissi@email.tn,GAT,Aspirin 100mg,2.1,11,51.42,Dr. Baccouche,Rhumatologue,2023-10-05,2023-10-07,OUI
+PAT5126,Aïda,Bouzid,3,59.3,Kairouan,+216 48 307980,aïda.bouzid@email.tn,GAT,Sertraline 50mg,2.2,9,13.49,Dr. Khouja,Rhumatologue,2023-05-26,2023-05-30,NON
+PAT5127,Khaled,Khouja,41,90.4,Beja,+216 57 257729,khaled.khouja@email.tn,CNRPS,Levothyrox 50mcg,1.9,29,104.52,Dr. Hamrouni,Endocrinologue,2024-08-10,2024-08-14,Non
+PAT5128,Nadia,Oueslati,85,59.6,Ben Arous,+216 76 705470,nadia.oueslati@email.tn,STAR,Levothyrox 50mcg,2.7,12,57.64,Dr. Khouja,Rhumatologue,2024-03-30,2024-03-31,non
+PAT5129,Karim,Mabrouk,44,108.7,Manouba,+216 81 610585,karim.mabrouk@email.tn,GAT,Levothyrox 50mcg,1.6,6,41.59,Dr. Ghanem,Cardiologue,2023-12-29,2023-12-29,Non
+PAT5130,Ali,Bouzid,50,56.3,Hammamet,+216 45 677564,ali.bouzid@email.tn,CNSS,Sertraline 50mg,1.5,12,93.07,Dr. Baccouche,Diabétologue,2024-11-06,2024-11-06,Non
+PAT5131,Zainab,Hachicha,58,70.8,Mahdia,+216 73 808662,zainab.hachicha@email.tn,SNCFT,Clopidogrel 75mg,2.2,26,35.65,Dr. Baccouche,Neurologue,2023-11-08,2023-11-08,OUI
+PAT5132,Mohammed,Ghanem,35,87.8,Tozeur,+216 81 779418,mohammed.ghanem@email.tn,CNAM,Coversyl 5mg,2.0,6,128.43,Dr. Ayachi,Néphrologue,2024-03-25,2024-03-29,Non
+PAT5133,Zainab,Triki,72,55.3,Ben Arous,+216 36 941344,zainab.triki@email.tn,SNCFT,Aspirin 100mg,1.7,15,123.67,Dr. Khouja,Gastrologue,2023-01-25,2023-01-27,NON
+PAT5134,Leila,Mabrouk,2,55.4,Sfax,+216 63 830546,leila.mabrouk@email.tn,CNSS,Oméprazole 20mg,1.2,6,29.59,Dr. Baccouche,Néphrologue,2024-09-04,2024-09-07,non
+PAT5135,Mohammed,Sfaxi,58,114.2,Sousse,+216 80 280553,mohammed.sfaxi@email.tn,CNAM,Fluoxetine 20mg,2.2,21,45.18,Dr. Hamrouni,Rhumatologue,2023-11-14,2023-11-16,non
+PAT5136,Tarek,Triki,7,94.7,Kasserine,+216 89 564071,tarek.triki@email.tn,GAT,Ramipril 5mg,1.1,29,132.87,Dr. Sfaxi,Cardiologue,2024-07-24,2024-07-25,NON
+PAT5137,Omar,Hamza,25,52.8,Kasserine,+216 29 653999,omar.hamza@email.tn,CRDA,Fluoxetine 20mg,2.8,27,115.6,Dr. Hamrouni,Endocrinologue,2023-03-27,2023-03-28,NON
+PAT5138,Leila,Triki,6,52.4,Hammamet,+216 26 442703,leila.triki@email.tn,CNAM,Levothyrox 50mcg,0.8,27,161.11,Dr. Oueslati,Pneumologue,2023-08-11,2023-08-14,non
+PAT5139,Aïda,Baccouche,38,81.9,Beja,+216 78 349321,aïda.baccouche@email.tn,CNRPS,Clopidogrel 75mg,2.1,18,123.29,Dr. Ayachi,Endocrinologue,2024-09-11,2024-09-14,oui
+PAT5140,Nadia,Elloumi,44,55.4,Gafsa,+216 56 234055,nadia.elloumi@email.tn,STAR,Metformine 1000mg,1.6,27,22.42,Dr. Oueslati,Diabétologue,2024-06-10,2024-06-10,NON
+PAT5141,Youssef,Kacem,3,105.4,Sfax,+216 44 369708,youssef.kacem@email.tn,CNRPS,Ventoline 100mcg,2.1,20,91.1,Dr. Ayachi,Pédiatre,2023-04-18,2023-04-19,OUI
+PAT5142,Samir,Souissi,54,82.3,Beja,+216 53 225341,samir.souissi@email.tn,CNRPS,Coversyl 5mg,0.5,17,110.5,Dr. Ghanem,Neurologue,2024-02-20,2024-02-22,Non
+PAT5143,Mariem,Sfaxi,38,50.7,Sousse,+216 48 522845,mariem.sfaxi@email.tn,CNAM,Sertraline 50mg,0.7,25,101.16,Dr. Oueslati,Pédiatre,2023-09-29,2023-10-02,non
+PAT5144,Aïda,Ben Ali,9,56.4,Hammamet,+216 24 504032,aïda.ben ali@email.tn,CNAM,Coversyl 5mg,1.1,7,98.79,Dr. Ghanem,Néphrologue,2024-01-11,2024-01-12,Non
+PAT5145,Youssef,Ben Ali,67,100.1,Gabes,+216 56 533816,youssef.ben ali@email.tn,CNSS,Coversyl 5mg,1.2,25,197.67,Dr. Ayachi,Neurologue,2024-08-07,2024-08-07,non
+PAT5146,Nadia,Kacem,87,58.7,Sfax,+216 78 143001,nadia.kacem@email.tn,STAR,Coversyl 5mg,2.5,9,26.99,Dr. Ayachi,Néphrologue,2024-12-10,2024-12-12,oui
+PAT5147,Samir,Gharbi,61,92.9,Kebili,+216 44 910694,samir.gharbi@email.tn,STAR,Amoxicilline 500mg,3.0,12,189.12,Dr. Oueslati,Gastrologue,2024-07-28,2024-08-01,Non
+PAT5148,Mohammed,Ghanem,73,53.3,Monastir,+216 76 216953,mohammed.ghanem@email.tn,STAR,Levothyrox 50mcg,0.6,7,166.98,Dr. Oueslati,Néphrologue,2024-05-31,2024-06-04,NON
+PAT5149,Fatima,Hamza,53,117.8,Manouba,+216 68 933032,fatima.hamza@email.tn,GAT,Coversyl 5mg,2.8,21,43.04,Dr. Elloumi,Néphrologue,2024-05-04,2024-05-06,NON
+PAT5150,Amine,Amri,49,84.4,Manouba,+216 36 474999,amine.amri@email.tn,CRDA,Levothyrox 50mcg,2.7,7,52.64,Dr. Elloumi,Gastrologue,2023-04-30,2023-05-04,OUI
+PAT5151,Salma,Gharbi,88,91.5,Monastir,+216 33 183300,salma.gharbi@email.tn,SNCFT,Ramipril 5mg,0.7,13,84.32,Dr. Triki,Cardiologue,2024-09-26,2024-09-29,oui
+PAT5152,Ali,Gharbi,28,112.2,Sidi Bouzid,+216 44 713089,ali.gharbi@email.tn,CNAM,Lisinopril 10mg,2.7,13,72.52,Dr. Sfaxi,Neurologue,2024-06-20,2024-06-24,OUI
+PAT5153,Hana,Amri,10,56.1,Monastir,+216 98 956101,hana.amri@email.tn,CNAM,Ventoline 100mcg,1.1,9,19.27,Dr. Triki,Rhumatologue,2024-03-29,2024-04-02,non
+PAT5154,Aïda,Khouja,59,57.7,Tataouine,+216 47 972388,aïda.khouja@email.tn,GAT,Ventoline 100mcg,3.0,22,104.08,Dr. Mabrouk,Néphrologue,2023-08-12,2023-08-16,Non
+PAT5155,Salma,Khouja,57,90.0,Sfax,+216 59 261633,salma.khouja@email.tn,CNAM,Sertraline 50mg,1.9,17,60.74,Dr. Elloumi,Endocrinologue,2023-09-19,2023-09-21,oui
+PAT5156,Riadh,Elloumi,79,96.1,Ariana,+216 78 558298,riadh.elloumi@email.tn,SNCFT,Clopidogrel 75mg,0.9,17,169.03,Dr. Khouja,Rhumatologue,2023-12-11,2023-12-15,oui
+PAT5157,Leila,Khouja,41,57.4,Kebili,+216 46 233541,leila.khouja@email.tn,CNSS,Sertraline 50mg,1.0,9,177.37,Dr. Baccouche,Pédiatre,2023-01-31,2023-02-01,oui
+PAT5158,Mariem,Amri,9,107.4,Medenine,+216 72 529725,mariem.amri@email.tn,CNSS,Coversyl 5mg,2.8,22,165.41,Dr. Hamrouni,Diabétologue,2024-12-18,2024-12-22,NON
+PAT5159,Youssef,Hamza,92,68.1,Medenine,+216 85 842623,youssef.hamza@email.tn,STAR,Fluoxetine 20mg,0.7,21,116.37,Dr. Hamrouni,Cardiologue,2023-12-26,2023-12-27,Non
+PAT5160,Zainab,Ayachi,59,50.6,Nabeul,+216 54 232079,zainab.ayachi@email.tn,sans,Oméprazole 20mg,0.8,11,112.84,Dr. Ghanem,Pédiatre,2023-08-12,2023-08-13,oui
+PAT5161,Hana,Ghanem,62,77.5,Jendouba,+216 98 715645,hana.ghanem@email.tn,SNCFT,Sertraline 50mg,2.4,26,188.07,Dr. Baccouche,Neurologue,2024-04-28,2024-04-29,OUI
+PAT5162,Fatima,Bouzid,67,71.1,Beja,+216 36 426032,fatima.bouzid@email.tn,CRDA,Augmentin 1g,2.0,5,21.0,Dr. Triki,Rhumatologue,2023-04-30,2023-05-02,NON
+PAT5163,Mariem,Amri,81,111.0,Medenine,+216 83 215374,mariem.amri@email.tn,CNSS,Atorvastatine 20mg,2.9,8,133.04,Dr. Oueslati,Gastrologue,2024-01-16,2024-01-19,non
+PAT5164,Nadia,Mabrouk,6,54.6,Tataouine,+216 52 632101,nadia.mabrouk@email.tn,CNAM,Augmentin 1g,1.4,23,57.98,Dr. Mabrouk,Pédiatre,2024-06-21,2024-06-22,OUI
+PAT5165,Salma,Ben Ali,45,82.8,Ben Arous,+216 23 769648,salma.ben ali@email.tn,sans,Metformine 1000mg,0.8,13,41.09,Dr. Triki,Rhumatologue,2023-06-06,2023-06-08,oui
+PAT5166,Sabrine,Mahjoubi,31,55.8,Sousse,+216 97 414451,sabrine.mahjoubi@email.tn,STAR,Coversyl 5mg,2.1,7,190.66,Dr. Oueslati,Cardiologue,2024-03-15,2024-03-18,oui
+PAT5167,Tarek,Sfaxi,92,116.1,Ariana,+216 78 808691,tarek.sfaxi@email.tn,CNRPS,Fluoxetine 20mg,1.5,29,94.04,Dr. Ghanem,Neurologue,2024-05-21,2024-05-21,oui
+PAT5168,Khaled,Mahjoubi,57,112.6,Djerba,+216 34 803650,khaled.mahjoubi@email.tn,sans,Aspirin 100mg,0.6,29,145.84,Dr. Hamrouni,Neurologue,2023-09-28,2023-10-01,oui
+PAT5169,Samir,Baccar,79,88.0,Djerba,+216 79 477816,samir.baccar@email.tn,sans,Aspirin 100mg,2.7,25,39.2,Dr. Khouja,Rhumatologue,2023-01-27,2023-01-28,OUI
+PAT5170,Aïda,Oueslati,70,93.8,Ben Arous,+216 83 338260,aïda.oueslati@email.tn,GAT,Amoxicilline 500mg,2.8,7,45.24,Dr. Hamrouni,Néphrologue,2024-06-10,2024-06-10,Non
+PAT5171,Khaled,Hamza,93,58.2,Tunis,+216 36 652829,khaled.hamza@email.tn,CRDA,Atorvastatine 20mg,2.2,8,116.1,Dr. Hamrouni,Neurologue,2024-12-26,2024-12-30,OUI
+PAT5172,Samir,Ben Ali,1,105.8,Tunis,+216 30 709996,samir.ben ali@email.tn,CRDA,Ramipril 5mg,0.9,25,23.76,Dr. Ayachi,Diabétologue,2023-11-16,2023-11-17,oui
+PAT5173,Samir,Baccouche,94,100.5,Hammamet,+216 30 777164,samir.baccouche@email.tn,STAR,Aspirin 100mg,2.4,10,182.49,Dr. Khouja,Gastrologue,2023-08-02,2023-08-04,OUI
+PAT5174,Hana,Khouja,87,60.2,Sfax,+216 95 487960,hana.khouja@email.tn,CNRPS,Oméprazole 20mg,1.9,19,104.79,Dr. Ghanem,Gastrologue,2023-03-27,2023-03-30,oui
+PAT5175,Khaled,Ghanem,19,74.2,Bizerte,+216 59 122431,khaled.ghanem@email.tn,SNCFT,Ramipril 5mg,2.9,5,108.37,Dr. Mabrouk,Généraliste,2024-08-11,2024-08-14,OUI
+PAT5176,Riadh,Oueslati,25,77.8,Tunis,+216 85 836421,riadh.oueslati@email.tn,STAR,Metformine 1000mg,1.9,18,141.71,Dr. Oueslati,Néphrologue,2023-05-23,2023-05-24,Non
+PAT5177,Fatima,Jebali,43,57.3,Manouba,+216 94 944092,fatima.jebali@email.tn,sans,Levothyrox 50mcg,2.3,10,123.01,Dr. Hamrouni,Généraliste,2023-03-14,2023-03-14,OUI
+PAT5178,Salma,Ayachi,75,111.0,Hammamet,+216 69 359931,salma.ayachi@email.tn,sans,Ventoline 100mcg,2.5,19,164.82,Dr. Oueslati,Rhumatologue,2023-01-07,2023-01-09,non
+PAT5179,Salma,Ghanem,83,88.7,Tunis,+216 25 783321,salma.ghanem@email.tn,sans,Amoxicilline 500mg,2.5,7,17.74,Dr. Elloumi,Pédiatre,2024-11-30,2024-12-01,non
+PAT5180,Zainab,Sfaxi,13,55.7,Monastir,+216 31 241398,zainab.sfaxi@email.tn,CNRPS,Clopidogrel 75mg,2.1,29,175.64,Dr. Triki,Diabétologue,2023-05-02,2023-05-04,Non
+PAT5181,Ali,Ben Ali,54,82.9,Kasserine,+216 64 128380,ali.ben ali@email.tn,STAR,Ramipril 5mg,2.5,27,18.3,Dr. Baccouche,Diabétologue,2024-08-16,2024-08-17,NON
+PAT5182,Ali,Hamza,82,66.0,Medenine,+216 75 889352,ali.hamza@email.tn,SNCFT,Metformine 1000mg,1.7,14,86.62,Dr. Mabrouk,Gastrologue,2024-03-20,2024-03-24,Non
+PAT5183,Nadia,Mabrouk,53,52.1,Gafsa,+216 26 619984,nadia.mabrouk@email.tn,CNRPS,Atorvastatine 20mg,2.7,28,90.84,Dr. Triki,Généraliste,2024-05-30,2024-06-02,Non
+PAT5184,Ali,Amri,19,85.3,Ben Arous,+216 69 478544,ali.amri@email.tn,CNAM,Levothyrox 50mcg,1.8,13,93.34,Dr. Hamrouni,Pédiatre,2023-04-27,2023-04-28,OUI
+PAT5185,Riadh,Souissi,99,111.1,Gabes,+216 53 486821,riadh.souissi@email.tn,CNAM,Clopidogrel 75mg,2.1,23,122.55,Dr. Triki,Rhumatologue,2023-09-03,2023-09-07,OUI
+PAT5186,Hana,Mabrouk,11,76.9,Tataouine,+216 37 360116,hana.mabrouk@email.tn,SNCFT,Lisinopril 10mg,2.3,7,157.44,Dr. Oueslati,Pédiatre,2023-04-10,2023-04-11,non
+PAT5187,Riadh,Ben Ali,43,76.1,Ben Arous,+216 21 395286,riadh.ben ali@email.tn,GAT,Ventoline 100mcg,1.5,10,103.53,Dr. Mabrouk,Néphrologue,2023-11-14,2023-11-17,OUI
+PAT5188,Karim,Mahjoubi,13,86.0,Gafsa,+216 21 300422,karim.mahjoubi@email.tn,sans,Sertraline 50mg,0.9,29,194.19,Dr. Baccouche,Diabétologue,2023-03-07,2023-03-09,NON
+PAT5189,Tarek,Triki,4,72.8,Hammamet,+216 59 448619,tarek.triki@email.tn,CNAM,Amoxicilline 500mg,0.8,17,55.04,Dr. Ayachi,Rhumatologue,2023-10-14,2023-10-16,NON
+PAT5190,Fatima,Ayachi,9,55.1,Tunis,+216 33 438511,fatima.ayachi@email.tn,CRDA,Ramipril 5mg,1.8,14,137.18,Dr. Triki,Généraliste,2023-12-27,2023-12-27,OUI
+PAT5191,Zainab,Mabrouk,4,67.4,Bizerte,+216 62 516715,zainab.mabrouk@email.tn,sans,Ramipril 5mg,2.3,26,41.85,Dr. Triki,Rhumatologue,2023-05-01,2023-05-03,NON
+PAT5192,Tarek,Ghanem,36,75.0,Tataouine,+216 95 192324,tarek.ghanem@email.tn,CNRPS,Aspirin 100mg,2.5,28,163.08,Dr. Hamrouni,Pédiatre,2023-06-05,2023-06-08,NON
+PAT5193,Salma,Jebali,60,52.4,Tozeur,+216 97 967969,salma.jebali@email.tn,STAR,Levothyrox 50mcg,0.8,9,187.96,Dr. Ayachi,Pédiatre,2023-01-01,2023-01-03,NON
+PAT5194,Zainab,Gharbi,69,62.6,Kasserine,+216 78 260928,zainab.gharbi@email.tn,STAR,Sertraline 50mg,1.8,18,140.76,Dr. Khouja,Pédiatre,2023-10-03,2023-10-07,NON
+PAT5195,Riadh,Jebali,87,98.0,Bizerte,+216 69 947644,riadh.jebali@email.tn,SNCFT,Atorvastatine 20mg,2.7,28,107.96,Dr. Ayachi,Néphrologue,2023-06-27,2023-06-30,Non
+PAT5196,Omar,Mabrouk,37,59.8,Beja,+216 64 490479,omar.mabrouk@email.tn,sans,Metformine 1000mg,2.8,27,40.85,Dr. Ayachi,Pédiatre,2023-12-07,2023-12-07,Non
+PAT5197,Samir,Ayachi,7,60.9,Sfax,+216 24 734965,samir.ayachi@email.tn,STAR,Atorvastatine 20mg,1.1,5,169.24,Dr. Ghanem,Pneumologue,2023-08-06,2023-08-08,Non
+PAT5198,Hana,Baccouche,73,51.2,Jendouba,+216 36 386233,hana.baccouche@email.tn,CNAM,Sertraline 50mg,2.7,12,156.02,Dr. Sfaxi,Cardiologue,2023-12-11,2023-12-14,NON
+PAT5199,Zainab,Hachicha,32,92.0,Nabeul,+216 50 933487,zainab.hachicha@email.tn,CRDA,Metformine 1000mg,2.6,20,133.73,Dr. Ayachi,Gastrologue,2024-08-24,2024-08-27,non
+PAT5200,Tarek,Jebali,65,120.0,Tunis,+216 89 629992,tarek.jebali@email.tn,sans,Levothyrox 50mcg,2.7,29,175.44,Dr. Elloumi,Gastrologue,2024-08-07,2024-08-11,non
+PAT5201,Amine,Sfaxi,76,70.2,Sidi Bouzid,+216 94 519139,amine.sfaxi@email.tn,sans,Clopidogrel 75mg,2.1,10,72.14,Dr. Khouja,Endocrinologue,2024-09-05,2024-09-07,non
+PAT5202,Aïda,Amri,69,113.1,Ben Arous,+216 32 985736,aïda.amri@email.tn,STAR,Sertraline 50mg,1.3,17,165.39,Dr. Mabrouk,Gastrologue,2023-12-10,2023-12-10,non
+PAT5203,Hana,Ben Ali,84,72.7,Bizerte,+216 95 858470,hana.ben ali@email.tn,CNAM,Fluoxetine 20mg,1.9,23,83.83,Dr. Baccouche,Cardiologue,2024-04-17,2024-04-17,non
+PAT5204,Samir,Hachicha,48,88.2,Ben Arous,+216 54 179973,samir.hachicha@email.tn,CNRPS,Ramipril 5mg,0.7,7,42.0,Dr. Khouja,Gastrologue,2023-01-03,2023-01-07,non
+PAT5205,Youssef,Hachicha,25,116.6,Manouba,+216 85 864357,youssef.hachicha@email.tn,GAT,Augmentin 1g,2.8,29,82.24,Dr. Sfaxi,Généraliste,2023-10-31,2023-11-04,OUI
+PAT5206,Salma,Elloumi,78,87.4,Tataouine,+216 34 435914,salma.elloumi@email.tn,CNRPS,Ventoline 100mcg,2.4,10,151.91,Dr. Mabrouk,Néphrologue,2023-12-30,2024-01-01,non
+PAT5207,Leila,Mahjoubi,42,51.3,Ben Arous,+216 42 950538,leila.mahjoubi@email.tn,STAR,Aspirin 100mg,0.5,19,23.54,Dr. Elloumi,Neurologue,2024-02-03,2024-02-03,NON
+PAT5208,Riadh,Khouja,35,114.9,Gafsa,+216 34 669667,riadh.khouja@email.tn,CNRPS,Amoxicilline 500mg,2.8,26,46.97,Dr. Triki,Rhumatologue,2023-11-30,2023-12-04,oui
+PAT5209,Samir,Mabrouk,67,68.0,Monastir,+216 71 848013,samir.mabrouk@email.tn,CNAM,Aspirin 100mg,1.3,19,111.13,Dr. Triki,Rhumatologue,2024-10-09,2024-10-10,oui
+PAT5210,Amine,Gharbi,35,100.2,Bizerte,+216 21 800336,amine.gharbi@email.tn,CNRPS,Ibuprofen 200mg,2.9,29,109.27,Dr. Mabrouk,Pneumologue,2023-09-20,2023-09-23,NON
+PAT5211,Mariem,Souissi,73,106.0,Bizerte,+216 50 365798,mariem.souissi@email.tn,STAR,Clopidogrel 75mg,1.2,21,117.79,Dr. Triki,Diabétologue,2023-10-25,2023-10-28,Non
+PAT5212,Wicem,Gharbi,83,83.8,Jendouba,+216 26 421333,wicem.gharbi@email.tn,GAT,Coversyl 5mg,1.9,28,110.03,Dr. Triki,Néphrologue,2024-07-12,2024-07-14,NON
+PAT5213,Aïda,Ghanem,12,92.1,Gafsa,+216 40 844149,aïda.ghanem@email.tn,CNRPS,Oméprazole 20mg,2.0,13,132.86,Dr. Ghanem,Neurologue,2024-01-13,2024-01-13,OUI
+PAT5214,Salma,Mahjoubi,41,113.0,Monastir,+216 68 332601,salma.mahjoubi@email.tn,CRDA,Amoxicilline 500mg,1.1,8,62.21,Dr. Mabrouk,Diabétologue,2024-06-14,2024-06-17,non
+PAT5215,Hana,Baccouche,59,97.0,Sidi Bouzid,+216 37 334386,hana.baccouche@email.tn,STAR,Ramipril 5mg,2.1,5,90.55,Dr. Baccouche,Pédiatre,2024-08-03,2024-08-03,non
+PAT5216,Fatima,Mabrouk,98,110.8,Monastir,+216 52 903446,fatima.mabrouk@email.tn,STAR,Fluoxetine 20mg,1.8,26,14.49,Dr. Sfaxi,Gastrologue,2024-10-16,2024-10-18,oui
+PAT5217,Tarek,Triki,91,64.4,Hammamet,+216 30 157993,tarek.triki@email.tn,GAT,Ventoline 100mcg,1.1,17,122.95,Dr. Mabrouk,Pneumologue,2023-09-11,2023-09-11,oui
+PAT5218,Mariem,Mabrouk,1,69.2,Djerba,+216 26 427252,mariem.mabrouk@email.tn,CRDA,Sertraline 50mg,2.2,14,91.36,Dr. Oueslati,Gastrologue,2023-06-16,2023-06-16,Non
+PAT5219,Khaled,Ayachi,74,119.4,Hammamet,+216 79 544717,khaled.ayachi@email.tn,sans,Aspirin 100mg,0.8,10,119.89,Dr. Hamrouni,Gastrologue,2023-06-16,2023-06-20,NON
+PAT5220,Amine,Elloumi,35,56.0,Kasserine,+216 55 378600,amine.elloumi@email.tn,sans,Atorvastatine 20mg,1.3,10,77.45,Dr. Ayachi,Cardiologue,2024-12-08,2024-12-12,oui
+PAT5221,Wicem,Hamza,48,108.2,Sfax,+216 79 372900,wicem.hamza@email.tn,CNAM,Ventoline 100mcg,0.7,25,61.52,Dr. Oueslati,Diabétologue,2024-12-12,2024-12-13,non
+PAT5222,Zainab,Gharbi,66,87.3,Medenine,+216 77 698357,zainab.gharbi@email.tn,sans,Lisinopril 10mg,2.2,27,81.91,Dr. Baccouche,Cardiologue,2024-09-05,2024-09-05,Non
+PAT5223,Sabrine,Baccar,34,101.1,Hammamet,+216 49 415507,sabrine.baccar@email.tn,CNRPS,Coversyl 5mg,0.7,16,26.87,Dr. Baccouche,Neurologue,2024-03-28,2024-04-01,NON
+PAT5224,Karim,Hamza,92,98.3,Nabeul,+216 74 886639,karim.hamza@email.tn,CRDA,Clopidogrel 75mg,1.5,29,166.14,Dr. Sfaxi,Néphrologue,2023-01-12,2023-01-12,non
+PAT5225,Ali,Bouzid,15,96.5,Ben Arous,+216 22 855343,ali.bouzid@email.tn,CNSS,Coversyl 5mg,1.5,27,85.87,Dr. Mabrouk,Gastrologue,2023-04-14,2023-04-18,oui
+PAT5226,Karim,Hamza,83,114.9,Bizerte,+216 84 837565,karim.hamza@email.tn,GAT,Augmentin 1g,1.8,10,58.84,Dr. Oueslati,Pédiatre,2024-03-31,2024-03-31,Non
+PAT5227,Fatima,Kacem,15,85.5,Ariana,+216 33 743552,fatima.kacem@email.tn,SNCFT,Augmentin 1g,1.1,17,78.43,Dr. Hamrouni,Généraliste,2023-12-07,2023-12-08,OUI
+PAT5228,Tarek,Baccar,90,66.7,Manouba,+216 84 548330,tarek.baccar@email.tn,STAR,Fluoxetine 20mg,2.6,27,189.05,Dr. Elloumi,Pédiatre,2024-04-10,2024-04-12,oui
+PAT5229,Fatima,Mahjoubi,21,84.8,Bizerte,+216 79 557828,fatima.mahjoubi@email.tn,CNAM,Fluoxetine 20mg,1.5,16,186.81,Dr. Baccouche,Généraliste,2023-02-11,2023-02-12,non
+PAT5230,Ali,Khouja,44,76.6,Ariana,+216 49 173861,ali.khouja@email.tn,STAR,Clopidogrel 75mg,0.9,11,67.89,Dr. Sfaxi,Pneumologue,2023-03-14,2023-03-18,Non
+PAT5231,Leila,Souissi,34,62.1,Hammamet,+216 21 754801,leila.souissi@email.tn,sans,Lisinopril 10mg,2.9,22,131.78,Dr. Khouja,Cardiologue,2024-06-20,2024-06-21,oui
+PAT5232,Amine,Oueslati,24,83.6,Manouba,+216 52 743235,amine.oueslati@email.tn,CNSS,Coversyl 5mg,2.0,5,125.19,Dr. Elloumi,Endocrinologue,2023-08-26,2023-08-30,Non
+PAT5233,Nadia,Elloumi,51,85.2,Kasserine,+216 60 123429,nadia.elloumi@email.tn,CRDA,Oméprazole 20mg,0.9,25,33.13,Dr. Baccouche,Néphrologue,2024-06-20,2024-06-23,NON
+PAT5234,Nadia,Ayachi,44,88.5,Kairouan,+216 51 997151,nadia.ayachi@email.tn,STAR,Ramipril 5mg,1.6,17,187.93,Dr. Hamrouni,Neurologue,2024-06-15,2024-06-16,NON
+PAT5235,Aïda,Bouzid,92,57.4,Beja,+216 25 479551,aïda.bouzid@email.tn,CNSS,Oméprazole 20mg,1.0,6,133.54,Dr. Hamrouni,Gastrologue,2024-04-11,2024-04-13,NON
+PAT5236,Mohammed,Gharbi,4,104.7,Tozeur,+216 29 466936,mohammed.gharbi@email.tn,SNCFT,Augmentin 1g,0.6,15,153.31,Dr. Baccouche,Gastrologue,2023-02-25,2023-02-25,oui
+PAT5237,Mohammed,Elloumi,86,66.7,Kairouan,+216 40 302056,mohammed.elloumi@email.tn,STAR,Fluoxetine 20mg,2.5,18,29.2,Dr. Sfaxi,Cardiologue,2023-03-21,2023-03-24,non
+PAT5238,Aïda,Ben Ali,96,85.7,Tunis,+216 59 123312,aïda.ben ali@email.tn,CNSS,Amoxicilline 500mg,1.1,24,43.01,Dr. Hamrouni,Diabétologue,2024-02-24,2024-02-27,non
+PAT5239,Khaled,Kacem,37,79.8,Mahdia,+216 82 535684,khaled.kacem@email.tn,CNRPS,Metformine 1000mg,2.7,7,79.87,Dr. Baccouche,Pneumologue,2023-04-02,2023-04-06,OUI
+PAT5240,Aïda,Baccouche,85,117.5,Tunis,+216 74 694305,aïda.baccouche@email.tn,SNCFT,Clopidogrel 75mg,0.8,25,13.65,Dr. Triki,Gastrologue,2024-08-13,2024-08-17,OUI
+PAT5241,Zainab,Ghanem,9,97.7,Sousse,+216 58 322084,zainab.ghanem@email.tn,sans,Oméprazole 20mg,1.0,25,168.52,Dr. Hamrouni,Néphrologue,2024-05-07,2024-05-11,oui
+PAT5242,Amine,Mabrouk,52,106.1,Kasserine,+216 64 756031,amine.mabrouk@email.tn,CNSS,Aspirin 100mg,1.7,7,60.51,Dr. Baccouche,Généraliste,2024-01-30,2024-02-03,OUI
+PAT5243,Mohammed,Bouzid,51,68.6,Tunis,+216 45 110749,mohammed.bouzid@email.tn,sans,Amoxicilline 500mg,0.9,24,56.26,Dr. Elloumi,Néphrologue,2024-08-16,2024-08-18,Non
+PAT5244,Wicem,Souissi,92,77.6,Kairouan,+216 57 356553,wicem.souissi@email.tn,CRDA,Levothyrox 50mcg,2.5,17,35.3,Dr. Baccouche,Rhumatologue,2023-07-11,2023-07-11,Non
+PAT5245,Karim,Mabrouk,8,116.0,Gabes,+216 21 542939,karim.mabrouk@email.tn,SNCFT,Coversyl 5mg,0.7,5,169.77,Dr. Khouja,Généraliste,2023-08-20,2023-08-24,OUI
+PAT5246,Aïda,Hamza,27,94.6,Nabeul,+216 53 608679,aïda.hamza@email.tn,CNSS,Augmentin 1g,2.7,12,53.12,Dr. Ghanem,Pneumologue,2023-06-22,2023-06-24,non
+PAT5247,Salma,Amri,68,101.6,Medenine,+216 84 777974,salma.amri@email.tn,CNAM,Ibuprofen 200mg,2.2,17,17.22,Dr. Triki,Pédiatre,2023-03-28,2023-03-30,non
+PAT5248,Amine,Hachicha,0,55.0,Sidi Bouzid,+216 43 713858,amine.hachicha@email.tn,CNSS,Metformine 1000mg,0.5,9,106.63,Dr. Mabrouk,Pédiatre,2023-08-20,2023-08-21,Non
+PAT5249,Wicem,Mabrouk,30,70.8,Ben Arous,+216 30 301139,wicem.mabrouk@email.tn,CNRPS,Sertraline 50mg,2.4,11,158.93,Dr. Ayachi,Cardiologue,2024-07-16,2024-07-18,OUI
+PAT5250,Zainab,Baccar,57,56.9,Jendouba,+216 27 760799,zainab.baccar@email.tn,CRDA,Coversyl 5mg,1.6,19,25.61,Dr. Khouja,Pneumologue,2023-08-08,2023-08-08,Non
+PAT5251,Ali,Hachicha,94,104.8,Mahdia,+216 44 790504,ali.hachicha@email.tn,sans,Ventoline 100mcg,1.5,22,11.98,Dr. Mabrouk,Cardiologue,2024-01-17,2024-01-20,OUI
+PAT5252,Karim,Ayachi,77,54.8,Tataouine,+216 81 369054,karim.ayachi@email.tn,SNCFT,Augmentin 1g,2.9,25,33.79,Dr. Sfaxi,Pédiatre,2024-05-02,2024-05-03,NON
+PAT5253,Hana,Hamza,12,90.8,Tozeur,+216 35 109503,hana.hamza@email.tn,CNSS,Augmentin 1g,2.0,6,34.34,Dr. Hamrouni,Endocrinologue,2023-09-30,2023-10-01,OUI
+PAT5254,Khaled,Ben Ali,54,56.7,Monastir,+216 78 285165,khaled.ben ali@email.tn,sans,Atorvastatine 20mg,1.6,29,41.1,Dr. Oueslati,Généraliste,2024-02-18,2024-02-21,Non
+PAT5255,Fatima,Jebali,84,97.3,Kebili,+216 70 985421,fatima.jebali@email.tn,CNAM,Augmentin 1g,0.5,25,64.32,Dr. Khouja,Pneumologue,2024-06-27,2024-06-27,Non
+PAT5256,Nadia,Mabrouk,11,114.3,Nabeul,+216 37 462644,nadia.mabrouk@email.tn,CRDA,Augmentin 1g,2.4,25,195.9,Dr. Khouja,Gastrologue,2023-10-29,2023-11-01,Non
+PAT5257,Wicem,Hachicha,95,62.4,Tunis,+216 41 317322,wicem.hachicha@email.tn,STAR,Fluoxetine 20mg,1.2,17,41.31,Dr. Oueslati,Cardiologue,2024-06-24,2024-06-28,Non
+PAT5258,Karim,Jebali,78,56.4,Tozeur,+216 69 668926,karim.jebali@email.tn,CNAM,Ibuprofen 200mg,1.7,27,169.73,Dr. Sfaxi,Rhumatologue,2024-04-05,2024-04-07,Non
+PAT5259,Omar,Triki,36,91.3,Kasserine,+216 75 632994,omar.triki@email.tn,GAT,Clopidogrel 75mg,1.2,23,38.8,Dr. Elloumi,Cardiologue,2023-01-30,2023-02-02,non
+PAT5260,Sabrine,Souissi,24,103.3,Kasserine,+216 27 665609,sabrine.souissi@email.tn,SNCFT,Ibuprofen 200mg,1.9,12,56.87,Dr. Ghanem,Neurologue,2023-09-18,2023-09-20,oui
+PAT5261,Ali,Ghanem,64,69.5,Medenine,+216 83 195081,ali.ghanem@email.tn,CNRPS,Coversyl 5mg,2.1,29,115.47,Dr. Hamrouni,Généraliste,2023-10-29,2023-10-31,OUI
+PAT5262,Tarek,Sfaxi,26,98.2,Sfax,+216 32 621608,tarek.sfaxi@email.tn,CNRPS,Augmentin 1g,1.9,26,171.13,Dr. Mabrouk,Néphrologue,2023-11-10,2023-11-13,non
+PAT5263,Mohammed,Jebali,80,50.8,Manouba,+216 53 664660,mohammed.jebali@email.tn,STAR,Fluoxetine 20mg,1.4,15,153.69,Dr. Oueslati,Endocrinologue,2023-03-11,2023-03-13,Non
+PAT5264,Nadia,Oueslati,57,75.8,Nabeul,+216 23 731827,nadia.oueslati@email.tn,GAT,Coversyl 5mg,2.5,26,122.68,Dr. Triki,Généraliste,2024-04-13,2024-04-17,OUI
+PAT5265,Sabrine,Ben Ali,73,93.4,Beja,+216 23 816987,sabrine.ben ali@email.tn,CNAM,Coversyl 5mg,2.5,24,86.44,Dr. Khouja,Diabétologue,2024-08-05,2024-08-08,NON
+PAT5266,Riadh,Bouzid,92,95.0,Beja,+216 77 981718,riadh.bouzid@email.tn,sans,Ramipril 5mg,2.3,28,124.66,Dr. Oueslati,Rhumatologue,2023-06-11,2023-06-12,non
+PAT5267,Wicem,Hachicha,18,68.9,Nabeul,+216 79 471602,wicem.hachicha@email.tn,CRDA,Lisinopril 10mg,1.7,18,38.31,Dr. Sfaxi,Endocrinologue,2024-10-25,2024-10-29,NON
+PAT5268,Amine,Souissi,75,104.9,Ariana,+216 50 870915,amine.souissi@email.tn,SNCFT,Ventoline 100mcg,1.8,20,80.96,Dr. Hamrouni,Endocrinologue,2023-12-16,2023-12-16,non
+PAT5269,Omar,Mahjoubi,54,66.5,Bizerte,+216 82 757011,omar.mahjoubi@email.tn,CNSS,Ventoline 100mcg,0.7,19,199.69,Dr. Sfaxi,Pneumologue,2023-04-28,2023-05-02,OUI
+PAT5270,Mohammed,Ayachi,32,79.5,Gabes,+216 23 411955,mohammed.ayachi@email.tn,CRDA,Levothyrox 50mcg,2.5,19,87.88,Dr. Oueslati,Gastrologue,2023-03-19,2023-03-22,Non
+PAT5271,Samir,Amri,74,101.8,Manouba,+216 35 338404,samir.amri@email.tn,STAR,Oméprazole 20mg,1.0,14,73.56,Dr. Baccouche,Néphrologue,2024-09-10,2024-09-10,NON
+PAT5272,Zainab,Mabrouk,93,108.2,Mahdia,+216 89 153072,zainab.mabrouk@email.tn,CNSS,Atorvastatine 20mg,2.8,23,188.73,Dr. Sfaxi,Diabétologue,2024-03-01,2024-03-03,OUI
+PAT5273,Leila,Ben Ali,45,65.8,Tataouine,+216 88 687100,leila.ben ali@email.tn,CNAM,Oméprazole 20mg,1.7,24,162.5,Dr. Triki,Neurologue,2023-03-15,2023-03-19,non
+PAT5274,Nadia,Kacem,99,59.3,Kebili,+216 23 260381,nadia.kacem@email.tn,sans,Amoxicilline 500mg,2.3,22,182.78,Dr. Ayachi,Pédiatre,2023-11-09,2023-11-12,OUI
+PAT5275,Youssef,Jebali,69,54.0,Ben Arous,+216 65 605659,youssef.jebali@email.tn,sans,Ibuprofen 200mg,0.8,29,152.76,Dr. Ghanem,Pédiatre,2024-10-25,2024-10-25,oui
+PAT5276,Mariem,Elloumi,35,50.9,Tozeur,+216 43 829963,mariem.elloumi@email.tn,CNAM,Oméprazole 20mg,0.6,26,59.72,Dr. Ghanem,Endocrinologue,2023-06-12,2023-06-15,OUI
+PAT5277,Omar,Ghanem,13,67.5,Gafsa,+216 35 619349,omar.ghanem@email.tn,CNSS,Oméprazole 20mg,1.6,29,157.58,Dr. Oueslati,Pédiatre,2024-07-09,2024-07-09,NON
+PAT5278,Tarek,Souissi,44,109.7,Beja,+216 76 933731,tarek.souissi@email.tn,STAR,Atorvastatine 20mg,1.3,11,26.42,Dr. Mabrouk,Neurologue,2024-02-03,2024-02-04,non
+PAT5279,Leila,Ayachi,31,96.5,Tozeur,+216 39 351351,leila.ayachi@email.tn,sans,Ramipril 5mg,1.9,11,84.76,Dr. Ghanem,Endocrinologue,2024-10-27,2024-10-30,non
+PAT5280,Samir,Jebali,13,101.2,Tunis,+216 77 351924,samir.jebali@email.tn,STAR,Fluoxetine 20mg,1.1,7,147.78,Dr. Triki,Cardiologue,2023-11-01,2023-11-03,oui
+PAT5281,Karim,Mahjoubi,88,116.3,Ariana,+216 31 706200,karim.mahjoubi@email.tn,SNCFT,Sertraline 50mg,1.0,5,38.74,Dr. Khouja,Gastrologue,2024-12-08,2024-12-09,oui
+PAT5282,Riadh,Hamza,70,97.9,Medenine,+216 52 948464,riadh.hamza@email.tn,GAT,Ramipril 5mg,3.0,6,86.76,Dr. Ayachi,Pneumologue,2023-02-12,2023-02-12,non
+PAT5283,Nadia,Mahjoubi,38,99.5,Gabes,+216 36 560385,nadia.mahjoubi@email.tn,STAR,Metformine 1000mg,0.7,10,170.91,Dr. Oueslati,Pneumologue,2024-05-31,2024-06-01,NON
+PAT5284,Amine,Khouja,21,109.5,Tunis,+216 85 745961,amine.khouja@email.tn,sans,Ventoline 100mcg,1.7,20,97.43,Dr. Mabrouk,Diabétologue,2024-11-09,2024-11-12,oui
+PAT5285,Salma,Sfaxi,87,105.1,Kebili,+216 57 130651,salma.sfaxi@email.tn,CNRPS,Coversyl 5mg,1.4,7,19.87,Dr. Elloumi,Pédiatre,2024-07-14,2024-07-18,NON
+PAT5286,Samir,Hachicha,19,88.1,Tozeur,+216 87 785933,samir.hachicha@email.tn,CNRPS,Lisinopril 10mg,2.4,19,48.93,Dr. Mabrouk,Rhumatologue,2023-08-01,2023-08-04,NON
+PAT5287,Amine,Oueslati,91,67.9,Bizerte,+216 59 642777,amine.oueslati@email.tn,CNSS,Aspirin 100mg,2.4,21,15.16,Dr. Baccouche,Cardiologue,2023-09-11,2023-09-13,Non
+PAT5288,Zainab,Souissi,71,69.8,Bizerte,+216 61 141971,zainab.souissi@email.tn,sans,Fluoxetine 20mg,2.5,11,134.79,Dr. Ghanem,Gastrologue,2024-08-23,2024-08-25,OUI
+PAT5289,Aïda,Triki,49,56.5,Sousse,+216 88 620498,aïda.triki@email.tn,SNCFT,Ventoline 100mcg,1.0,16,109.43,Dr. Sfaxi,Cardiologue,2024-05-22,2024-05-25,non
+PAT5290,Khaled,Sfaxi,40,90.4,Gabes,+216 91 368854,khaled.sfaxi@email.tn,SNCFT,Coversyl 5mg,2.1,19,183.87,Dr. Hamrouni,Neurologue,2023-04-14,2023-04-15,OUI
+PAT5291,Hana,Souissi,41,81.3,Ariana,+216 89 308139,hana.souissi@email.tn,SNCFT,Clopidogrel 75mg,0.9,20,172.86,Dr. Hamrouni,Gastrologue,2023-09-16,2023-09-18,NON
+PAT5292,Omar,Ghanem,39,85.5,Mahdia,+216 20 875158,omar.ghanem@email.tn,STAR,Sertraline 50mg,1.0,9,149.2,Dr. Ayachi,Pédiatre,2024-11-18,2024-11-20,non
+PAT5293,Wicem,Gharbi,3,105.9,Djerba,+216 38 495807,wicem.gharbi@email.tn,CNSS,Fluoxetine 20mg,0.8,15,105.99,Dr. Oueslati,Gastrologue,2023-01-16,2023-01-16,OUI
+PAT5294,Zainab,Gharbi,62,84.0,Monastir,+216 40 477501,zainab.gharbi@email.tn,sans,Levothyrox 50mcg,2.1,8,199.44,Dr. Oueslati,Pédiatre,2024-05-20,2024-05-22,Non
+PAT5295,Salma,Oueslati,26,98.1,Beja,+216 22 339968,salma.oueslati@email.tn,CRDA,Lisinopril 10mg,0.6,24,179.15,Dr. Khouja,Cardiologue,2024-01-17,2024-01-21,Non
+PAT5296,Zainab,Bouzid,98,63.1,Ben Arous,+216 28 195665,zainab.bouzid@email.tn,sans,Ventoline 100mcg,0.8,16,197.73,Dr. Baccouche,Cardiologue,2024-03-25,2024-03-28,oui
+PAT5297,Ali,Baccar,72,75.0,Ariana,+216 22 887019,ali.baccar@email.tn,SNCFT,Aspirin 100mg,1.3,20,145.28,Dr. Baccouche,Pneumologue,2023-08-06,2023-08-06,NON
+PAT5298,Mariem,Kacem,84,79.4,Kasserine,+216 53 276168,mariem.kacem@email.tn,CRDA,Ventoline 100mcg,2.3,22,152.28,Dr. Ghanem,Pédiatre,2023-10-06,2023-10-06,non
+PAT5299,Zainab,Baccouche,68,106.4,Gafsa,+216 34 394746,zainab.baccouche@email.tn,CNSS,Levothyrox 50mcg,2.1,24,150.47,Dr. Sfaxi,Diabétologue,2023-03-07,2023-03-09,oui
+PAT5300,Samir,Mabrouk,39,50.3,Tunis,+216 66 429638,samir.mabrouk@email.tn,sans,Oméprazole 20mg,0.9,24,53.16,Dr. Ghanem,Généraliste,2024-10-01,2024-10-03,non
+PAT5301,Nadia,Elloumi,3,110.6,Mahdia,+216 66 679365,nadia.elloumi@email.tn,CNSS,Amoxicilline 500mg,1.4,25,16.31,Dr. Hamrouni,Pneumologue,2024-09-20,2024-09-24,non
+PAT5302,Hana,Hachicha,45,103.1,Hammamet,+216 95 517168,hana.hachicha@email.tn,SNCFT,Levothyrox 50mcg,2.4,7,21.23,Dr. Ayachi,Diabétologue,2023-07-26,2023-07-27,non
+PAT5303,Fatima,Oueslati,96,111.2,Tataouine,+216 42 683098,fatima.oueslati@email.tn,CRDA,Augmentin 1g,0.8,28,82.11,Dr. Hamrouni,Rhumatologue,2023-05-22,2023-05-25,OUI
+PAT5304,Omar,Ben Ali,71,59.0,Medenine,+216 38 564894,omar.ben ali@email.tn,CRDA,Aspirin 100mg,0.8,24,13.42,Dr. Baccouche,Diabétologue,2024-02-28,2024-02-29,Non
+PAT5305,Samir,Ghanem,86,58.9,Nabeul,+216 70 578082,samir.ghanem@email.tn,CNRPS,Augmentin 1g,2.4,13,169.5,Dr. Elloumi,Néphrologue,2023-06-22,2023-06-22,OUI
+PAT5306,Tarek,Ben Ali,18,111.1,Gabes,+216 33 879383,tarek.ben ali@email.tn,GAT,Amoxicilline 500mg,2.3,8,28.34,Dr. Mabrouk,Pneumologue,2023-10-13,2023-10-13,OUI
+PAT5307,Khaled,Ben Ali,63,89.7,Sousse,+216 71 408877,khaled.ben ali@email.tn,CNAM,Metformine 1000mg,2.0,7,53.01,Dr. Sfaxi,Généraliste,2023-11-30,2023-11-30,OUI
+PAT5308,Hana,Amri,67,54.5,Kebili,+216 27 376993,hana.amri@email.tn,CNRPS,Ramipril 5mg,2.2,18,74.68,Dr. Ghanem,Pneumologue,2024-09-23,2024-09-27,oui
+PAT5309,Aïda,Amri,61,105.6,Monastir,+216 49 285378,aïda.amri@email.tn,CNSS,Aspirin 100mg,1.2,18,172.58,Dr. Ghanem,Pneumologue,2024-10-22,2024-10-26,oui
+PAT5310,Leila,Souissi,47,108.2,Manouba,+216 86 501067,leila.souissi@email.tn,CNSS,Levothyrox 50mcg,0.8,13,182.83,Dr. Elloumi,Pneumologue,2023-11-20,2023-11-22,Non
+PAT5311,Karim,Triki,80,54.5,Kebili,+216 84 582604,karim.triki@email.tn,CNSS,Lisinopril 10mg,2.2,12,70.22,Dr. Hamrouni,Gastrologue,2024-08-10,2024-08-10,non
+PAT5312,Hana,Khouja,18,112.5,Bizerte,+216 41 769927,hana.khouja@email.tn,STAR,Ramipril 5mg,2.9,10,122.42,Dr. Triki,Neurologue,2024-10-30,2024-11-01,non
+PAT5313,Tarek,Ayachi,3,97.3,Tataouine,+216 47 330147,tarek.ayachi@email.tn,CNRPS,Ventoline 100mcg,1.5,17,194.45,Dr. Triki,Pédiatre,2024-05-06,2024-05-07,NON
+PAT5314,Mariem,Jebali,87,92.0,Kebili,+216 74 949256,mariem.jebali@email.tn,CNAM,Sertraline 50mg,1.8,27,87.32,Dr. Sfaxi,Néphrologue,2023-08-02,2023-08-02,NON
+PAT5315,Nadia,Ayachi,81,75.3,Hammamet,+216 31 391077,nadia.ayachi@email.tn,CNSS,Atorvastatine 20mg,0.6,12,55.38,Dr. Khouja,Néphrologue,2023-12-28,2023-12-28,Non
+PAT5316,Sabrine,Mahjoubi,56,73.2,Nabeul,+216 59 173869,sabrine.mahjoubi@email.tn,GAT,Atorvastatine 20mg,2.0,17,100.11,Dr. Ghanem,Neurologue,2024-11-19,2024-11-23,OUI
+PAT5317,Mohammed,Souissi,60,50.4,Tozeur,+216 65 875024,mohammed.souissi@email.tn,SNCFT,Metformine 1000mg,1.0,15,170.35,Dr. Sfaxi,Cardiologue,2024-08-24,2024-08-28,OUI
+PAT5318,Fatima,Mabrouk,48,65.3,Sidi Bouzid,+216 73 585757,fatima.mabrouk@email.tn,CNRPS,Amoxicilline 500mg,1.2,28,26.55,Dr. Khouja,Endocrinologue,2024-07-06,2024-07-06,non
+PAT5319,Riadh,Baccouche,87,87.2,Gafsa,+216 78 476742,riadh.baccouche@email.tn,GAT,Augmentin 1g,1.9,11,103.77,Dr. Ghanem,Néphrologue,2024-05-08,2024-05-10,Non
+PAT5320,Leila,Ben Ali,10,59.2,Beja,+216 65 808140,leila.ben ali@email.tn,CRDA,Ibuprofen 200mg,1.5,16,148.67,Dr. Baccouche,Rhumatologue,2024-08-06,2024-08-10,Non
+PAT5321,Mariem,Elloumi,11,97.2,Hammamet,+216 52 357324,mariem.elloumi@email.tn,CNRPS,Levothyrox 50mcg,2.3,9,10.3,Dr. Mabrouk,Rhumatologue,2023-06-23,2023-06-27,oui
+PAT5322,Aïda,Mabrouk,46,54.2,Beja,+216 66 167411,aïda.mabrouk@email.tn,STAR,Oméprazole 20mg,2.2,6,136.41,Dr. Oueslati,Rhumatologue,2024-11-03,2024-11-06,non
+PAT5323,Youssef,Baccouche,81,56.5,Kairouan,+216 47 199239,youssef.baccouche@email.tn,GAT,Oméprazole 20mg,2.4,5,86.81,Dr. Hamrouni,Généraliste,2024-10-16,2024-10-16,non
+PAT5324,Omar,Souissi,38,78.9,Kasserine,+216 48 972552,omar.souissi@email.tn,GAT,Ramipril 5mg,2.1,23,122.8,Dr. Triki,Néphrologue,2023-09-23,2023-09-24,NON
+PAT5325,Omar,Triki,50,113.9,Ben Arous,+216 58 801979,omar.triki@email.tn,SNCFT,Metformine 1000mg,0.9,10,32.91,Dr. Mabrouk,Gastrologue,2024-05-28,2024-06-01,NON
+PAT5326,Mohammed,Hachicha,37,108.0,Jendouba,+216 59 909217,mohammed.hachicha@email.tn,CNRPS,Lisinopril 10mg,0.5,16,66.06,Dr. Mabrouk,Pédiatre,2023-11-07,2023-11-11,OUI
+PAT5327,Youssef,Elloumi,78,53.1,Tozeur,+216 81 308944,youssef.elloumi@email.tn,CRDA,Metformine 1000mg,1.0,29,148.54,Dr. Triki,Néphrologue,2024-05-19,2024-05-22,NON
+PAT5328,Salma,Ghanem,20,98.5,Manouba,+216 37 483395,salma.ghanem@email.tn,GAT,Ventoline 100mcg,2.2,27,113.08,Dr. Ayachi,Néphrologue,2024-09-25,2024-09-28,NON
+PAT5329,Khaled,Amri,97,76.9,Gabes,+216 86 703291,khaled.amri@email.tn,CNSS,Clopidogrel 75mg,1.9,13,91.89,Dr. Mabrouk,Gastrologue,2023-12-26,2023-12-28,NON
+PAT5330,Karim,Kacem,47,50.9,Tataouine,+216 76 428821,karim.kacem@email.tn,CNSS,Augmentin 1g,2.3,5,109.9,Dr. Sfaxi,Gastrologue,2023-10-17,2023-10-20,OUI
+PAT5331,Fatima,Bouzid,36,95.2,Djerba,+216 56 978135,fatima.bouzid@email.tn,CNAM,Clopidogrel 75mg,2.4,19,39.35,Dr. Khouja,Endocrinologue,2024-10-30,2024-10-31,non
+PAT5332,Tarek,Mahjoubi,59,76.5,Gafsa,+216 54 220234,tarek.mahjoubi@email.tn,SNCFT,Lisinopril 10mg,1.5,15,69.13,Dr. Ghanem,Généraliste,2024-07-29,2024-08-02,non
+PAT5333,Ali,Sfaxi,7,75.5,Medenine,+216 75 607365,ali.sfaxi@email.tn,STAR,Ibuprofen 200mg,1.6,8,41.8,Dr. Khouja,Cardiologue,2024-03-09,2024-03-13,oui
+PAT5334,Aïda,Gharbi,29,51.9,Ariana,+216 78 849122,aïda.gharbi@email.tn,SNCFT,Fluoxetine 20mg,2.9,8,28.87,Dr. Oueslati,Cardiologue,2024-03-05,2024-03-07,oui
+PAT5335,Amine,Hachicha,63,79.0,Tunis,+216 70 781777,amine.hachicha@email.tn,CNAM,Augmentin 1g,1.3,19,102.69,Dr. Elloumi,Gastrologue,2024-04-29,2024-04-30,OUI
+PAT5336,Samir,Hachicha,36,116.9,Jendouba,+216 54 254245,samir.hachicha@email.tn,sans,Fluoxetine 20mg,2.0,13,196.96,Dr. Hamrouni,Pédiatre,2023-03-18,2023-03-20,oui
+PAT5337,Tarek,Triki,46,60.6,Gafsa,+216 36 159500,tarek.triki@email.tn,STAR,Sertraline 50mg,2.9,26,112.87,Dr. Elloumi,Neurologue,2023-06-14,2023-06-14,oui
+PAT5338,Aïda,Khouja,48,87.3,Nabeul,+216 72 760858,aïda.khouja@email.tn,CNRPS,Atorvastatine 20mg,2.6,7,67.44,Dr. Baccouche,Diabétologue,2024-02-20,2024-02-24,NON
+PAT5339,Khaled,Kacem,50,62.4,Bizerte,+216 65 706590,khaled.kacem@email.tn,CNSS,Oméprazole 20mg,1.2,16,167.83,Dr. Hamrouni,Pneumologue,2024-05-13,2024-05-13,NON
+PAT5340,Fatima,Jebali,91,90.8,Tunis,+216 32 158478,fatima.jebali@email.tn,CNSS,Coversyl 5mg,2.5,8,86.34,Dr. Triki,Endocrinologue,2023-09-30,2023-10-02,Non
+PAT5341,Riadh,Ayachi,81,93.6,Sousse,+216 43 336281,riadh.ayachi@email.tn,CNAM,Ramipril 5mg,1.7,11,85.08,Dr. Hamrouni,Pneumologue,2023-10-11,2023-10-15,non
+PAT5342,Ali,Amri,16,99.8,Tunis,+216 38 306846,ali.amri@email.tn,sans,Aspirin 100mg,2.9,25,123.83,Dr. Khouja,Neurologue,2024-11-15,2024-11-18,non
+PAT5343,Hana,Amri,20,102.2,Kebili,+216 24 191088,hana.amri@email.tn,STAR,Levothyrox 50mcg,2.2,13,176.65,Dr. Baccouche,Néphrologue,2024-06-07,2024-06-07,oui
+PAT5344,Zainab,Triki,18,85.9,Manouba,+216 71 195071,zainab.triki@email.tn,sans,Metformine 1000mg,1.7,27,81.31,Dr. Ghanem,Endocrinologue,2023-04-12,2023-04-14,non
+PAT5345,Wicem,Gharbi,32,89.4,Tozeur,+216 42 383022,wicem.gharbi@email.tn,CNSS,Metformine 1000mg,2.0,29,78.83,Dr. Triki,Cardiologue,2024-04-09,2024-04-11,Non
+PAT5346,Mohammed,Jebali,52,118.7,Gabes,+216 70 384334,mohammed.jebali@email.tn,CNRPS,Sertraline 50mg,2.4,8,163.25,Dr. Mabrouk,Rhumatologue,2023-06-12,2023-06-12,NON
+PAT5347,Leila,Mahjoubi,71,109.8,Djerba,+216 91 966450,leila.mahjoubi@email.tn,CNSS,Amoxicilline 500mg,1.3,7,95.18,Dr. Ayachi,Cardiologue,2023-01-13,2023-01-17,Non
+PAT5348,Wicem,Amri,30,101.4,Manouba,+216 41 236917,wicem.amri@email.tn,CNRPS,Amoxicilline 500mg,2.3,26,110.17,Dr. Mabrouk,Cardiologue,2023-11-16,2023-11-20,Non
+PAT5349,Fatima,Kacem,79,107.4,Ben Arous,+216 60 939319,fatima.kacem@email.tn,CRDA,Levothyrox 50mcg,2.3,29,160.74,Dr. Oueslati,Généraliste,2023-06-12,2023-06-14,OUI
+PAT5350,Khaled,Hamza,7,119.6,Ben Arous,+216 90 616637,khaled.hamza@email.tn,CRDA,Aspirin 100mg,0.5,5,74.94,Dr. Ayachi,Pédiatre,2024-07-02,2024-07-02,NON
+PAT5351,Nadia,Triki,14,60.0,Kasserine,+216 27 632356,nadia.triki@email.tn,CNRPS,Levothyrox 50mcg,2.6,13,155.56,Dr. Oueslati,Généraliste,2024-11-06,2024-11-08,Non
+PAT5352,Khaled,Sfaxi,65,57.3,Beja,+216 42 439208,khaled.sfaxi@email.tn,CRDA,Coversyl 5mg,2.3,18,87.43,Dr. Khouja,Généraliste,2024-02-18,2024-02-20,Non
+PAT5353,Aïda,Bouzid,98,88.4,Kasserine,+216 33 657243,aïda.bouzid@email.tn,SNCFT,Augmentin 1g,1.9,6,11.16,Dr. Oueslati,Gastrologue,2023-03-24,2023-03-26,NON
+PAT5354,Salma,Sfaxi,15,97.7,Medenine,+216 36 684054,salma.sfaxi@email.tn,sans,Aspirin 100mg,2.6,20,100.87,Dr. Triki,Généraliste,2023-11-18,2023-11-19,OUI
+PAT5355,Amine,Baccar,89,78.2,Beja,+216 50 987291,amine.baccar@email.tn,SNCFT,Oméprazole 20mg,2.7,7,162.66,Dr. Ghanem,Neurologue,2024-09-23,2024-09-25,non
+PAT5356,Khaled,Amri,92,90.8,Medenine,+216 58 954336,khaled.amri@email.tn,STAR,Ramipril 5mg,1.9,25,16.4,Dr. Sfaxi,Pneumologue,2024-02-07,2024-02-11,OUI
+PAT5357,Karim,Elloumi,18,95.3,Kasserine,+216 50 378710,karim.elloumi@email.tn,GAT,Atorvastatine 20mg,1.8,14,121.31,Dr. Oueslati,Néphrologue,2024-03-31,2024-04-03,OUI
+PAT5358,Riadh,Bouzid,19,97.8,Kairouan,+216 33 262993,riadh.bouzid@email.tn,STAR,Amoxicilline 500mg,2.3,24,67.61,Dr. Hamrouni,Généraliste,2023-01-22,2023-01-25,NON
+PAT5359,Mariem,Ben Ali,76,114.2,Hammamet,+216 27 826481,mariem.ben ali@email.tn,sans,Lisinopril 10mg,1.5,18,177.58,Dr. Triki,Généraliste,2023-12-20,2023-12-22,Non
+PAT5360,Aïda,Amri,75,78.2,Sousse,+216 76 678526,aïda.amri@email.tn,GAT,Aspirin 100mg,1.0,22,62.47,Dr. Hamrouni,Néphrologue,2023-10-21,2023-10-21,NON
+PAT5361,Mohammed,Triki,86,90.8,Gabes,+216 27 777800,mohammed.triki@email.tn,STAR,Fluoxetine 20mg,1.4,16,150.77,Dr. Khouja,Rhumatologue,2023-06-06,2023-06-09,oui
+PAT5362,Zainab,Mahjoubi,10,107.9,Ben Arous,+216 38 284456,zainab.mahjoubi@email.tn,STAR,Coversyl 5mg,2.6,16,118.64,Dr. Elloumi,Gastrologue,2023-05-21,2023-05-23,non
+PAT5363,Karim,Mabrouk,48,76.4,Manouba,+216 75 491858,karim.mabrouk@email.tn,CRDA,Ramipril 5mg,0.7,27,103.82,Dr. Oueslati,Neurologue,2024-12-29,2024-12-30,OUI
+PAT5364,Samir,Gharbi,46,61.7,Kebili,+216 40 198538,samir.gharbi@email.tn,SNCFT,Clopidogrel 75mg,2.2,5,62.9,Dr. Mabrouk,Endocrinologue,2024-06-06,2024-06-06,NON
+PAT5365,Khaled,Bouzid,67,99.2,Tataouine,+216 92 702644,khaled.bouzid@email.tn,GAT,Ramipril 5mg,1.7,23,132.39,Dr. Baccouche,Gastrologue,2023-04-11,2023-04-14,OUI
+PAT5366,Salma,Triki,40,83.3,Sfax,+216 37 730527,salma.triki@email.tn,SNCFT,Metformine 1000mg,1.4,16,10.55,Dr. Baccouche,Généraliste,2024-03-30,2024-03-30,Non
+PAT5367,Nadia,Oueslati,12,79.2,Sousse,+216 32 211715,nadia.oueslati@email.tn,GAT,Sertraline 50mg,2.6,20,80.52,Dr. Sfaxi,Gastrologue,2023-06-15,2023-06-17,non
+PAT5368,Riadh,Hachicha,53,111.6,Sfax,+216 64 314764,riadh.hachicha@email.tn,CNRPS,Aspirin 100mg,1.2,28,186.85,Dr. Hamrouni,Pédiatre,2023-10-01,2023-10-03,NON
+PAT5369,Fatima,Jebali,27,118.2,Bizerte,+216 63 578356,fatima.jebali@email.tn,CNSS,Ibuprofen 200mg,2.2,26,47.85,Dr. Baccouche,Endocrinologue,2023-12-22,2023-12-26,NON
+PAT5370,Samir,Mahjoubi,98,96.7,Sousse,+216 68 890645,samir.mahjoubi@email.tn,CNRPS,Augmentin 1g,2.5,25,60.84,Dr. Hamrouni,Neurologue,2023-02-22,2023-02-23,Non
+PAT5371,Karim,Oueslati,45,66.9,Kasserine,+216 43 660897,karim.oueslati@email.tn,SNCFT,Ramipril 5mg,0.5,8,190.28,Dr. Elloumi,Rhumatologue,2024-11-05,2024-11-05,oui
+PAT5372,Fatima,Gharbi,2,78.3,Bizerte,+216 36 357803,fatima.gharbi@email.tn,sans,Fluoxetine 20mg,2.0,28,147.72,Dr. Elloumi,Rhumatologue,2024-02-13,2024-02-16,OUI
+PAT5373,Karim,Jebali,59,77.8,Kasserine,+216 84 513523,karim.jebali@email.tn,CNRPS,Ventoline 100mcg,1.6,20,156.86,Dr. Sfaxi,Cardiologue,2023-04-14,2023-04-17,NON
+PAT5374,Tarek,Amri,57,110.0,Medenine,+216 72 695642,tarek.amri@email.tn,GAT,Oméprazole 20mg,1.5,13,32.84,Dr. Sfaxi,Pneumologue,2023-05-14,2023-05-18,Non
+PAT5375,Youssef,Triki,24,104.1,Mahdia,+216 77 610470,youssef.triki@email.tn,sans,Aspirin 100mg,1.4,16,10.26,Dr. Triki,Cardiologue,2024-07-08,2024-07-12,NON
+PAT5376,Sabrine,Kacem,99,88.4,Tataouine,+216 70 776296,sabrine.kacem@email.tn,CRDA,Lisinopril 10mg,1.9,12,158.81,Dr. Triki,Cardiologue,2024-12-29,2025-01-02,OUI
+PAT5377,Nadia,Baccar,85,60.7,Mahdia,+216 86 849468,nadia.baccar@email.tn,CNRPS,Metformine 1000mg,1.1,6,124.63,Dr. Ayachi,Gastrologue,2023-07-24,2023-07-27,non
+PAT5378,Wicem,Gharbi,86,97.0,Monastir,+216 23 212217,wicem.gharbi@email.tn,CNRPS,Aspirin 100mg,3.0,27,159.19,Dr. Ghanem,Pédiatre,2024-08-30,2024-09-02,Non
+PAT5379,Wicem,Sfaxi,49,95.1,Tunis,+216 51 811195,wicem.sfaxi@email.tn,SNCFT,Levothyrox 50mcg,2.4,21,52.82,Dr. Elloumi,Diabétologue,2024-05-06,2024-05-07,oui
+PAT5380,Aïda,Triki,56,93.6,Sidi Bouzid,+216 29 983194,aïda.triki@email.tn,STAR,Ventoline 100mcg,1.9,15,196.51,Dr. Khouja,Gastrologue,2024-03-31,2024-04-03,non
+PAT5381,Nadia,Jebali,94,97.2,Kasserine,+216 84 656718,nadia.jebali@email.tn,CNAM,Atorvastatine 20mg,2.8,28,147.75,Dr. Sfaxi,Pédiatre,2024-07-22,2024-07-22,non
+PAT5382,Fatima,Hamza,45,54.4,Kasserine,+216 24 368083,fatima.hamza@email.tn,CRDA,Sertraline 50mg,1.1,28,35.51,Dr. Baccouche,Pédiatre,2024-02-26,2024-02-28,NON
+PAT5383,Leila,Triki,97,66.9,Kebili,+216 80 514841,leila.triki@email.tn,CNRPS,Coversyl 5mg,2.2,9,127.97,Dr. Hamrouni,Généraliste,2024-07-27,2024-07-28,NON
+PAT5384,Fatima,Mabrouk,77,88.3,Hammamet,+216 32 537470,fatima.mabrouk@email.tn,CNSS,Aspirin 100mg,0.6,10,94.65,Dr. Ayachi,Néphrologue,2024-03-03,2024-03-07,oui
+PAT5385,Khaled,Sfaxi,32,59.6,Mahdia,+216 94 847852,khaled.sfaxi@email.tn,CNRPS,Oméprazole 20mg,1.8,16,192.52,Dr. Triki,Cardiologue,2023-09-29,2023-10-02,OUI
+PAT5386,Mariem,Khouja,98,84.9,Tataouine,+216 75 327135,mariem.khouja@email.tn,CNSS,Sertraline 50mg,2.9,29,51.63,Dr. Khouja,Cardiologue,2023-12-23,2023-12-23,non
+PAT5387,Ali,Kacem,17,91.5,Kasserine,+216 74 485893,ali.kacem@email.tn,STAR,Sertraline 50mg,2.1,10,46.12,Dr. Mabrouk,Endocrinologue,2024-07-24,2024-07-28,non
+PAT5388,Riadh,Baccouche,97,98.9,Medenine,+216 62 168431,riadh.baccouche@email.tn,CNSS,Ventoline 100mcg,2.9,27,84.63,Dr. Elloumi,Gastrologue,2023-12-28,2023-12-31,non
+PAT5389,Karim,Hamza,93,94.8,Djerba,+216 58 524528,karim.hamza@email.tn,CNSS,Lisinopril 10mg,0.9,28,155.08,Dr. Oueslati,Rhumatologue,2023-04-03,2023-04-06,non
+PAT5390,Karim,Ayachi,8,108.5,Nabeul,+216 55 511236,karim.ayachi@email.tn,CRDA,Ibuprofen 200mg,1.4,14,162.9,Dr. Ayachi,Pneumologue,2024-12-28,2024-12-29,NON
+PAT5391,Ali,Mabrouk,65,86.0,Manouba,+216 67 892154,ali.mabrouk@email.tn,CNAM,Aspirin 100mg,1.1,29,86.53,Dr. Baccouche,Diabétologue,2024-10-14,2024-10-18,OUI
+PAT5392,Ali,Mahjoubi,9,113.1,Jendouba,+216 73 664983,ali.mahjoubi@email.tn,CNRPS,Sertraline 50mg,3.0,6,198.72,Dr. Elloumi,Endocrinologue,2024-11-02,2024-11-02,non
+PAT5393,Omar,Hachicha,92,83.7,Beja,+216 86 633459,omar.hachicha@email.tn,GAT,Aspirin 100mg,0.7,7,20.96,Dr. Oueslati,Généraliste,2023-12-25,2023-12-27,non
+PAT5394,Tarek,Kacem,89,75.0,Manouba,+216 37 145740,tarek.kacem@email.tn,CNRPS,Sertraline 50mg,1.1,24,119.03,Dr. Baccouche,Endocrinologue,2023-03-23,2023-03-26,oui
+PAT5395,Hana,Triki,64,66.8,Manouba,+216 77 780089,hana.triki@email.tn,CNSS,Sertraline 50mg,2.8,24,15.23,Dr. Khouja,Neurologue,2023-11-11,2023-11-13,Non
+PAT5396,Leila,Oueslati,40,52.7,Bizerte,+216 84 842800,leila.oueslati@email.tn,GAT,Lisinopril 10mg,0.9,28,63.67,Dr. Elloumi,Gastrologue,2024-08-02,2024-08-06,NON
+PAT5397,Mohammed,Kacem,10,89.4,Kebili,+216 40 515842,mohammed.kacem@email.tn,SNCFT,Metformine 1000mg,1.3,23,63.67,Dr. Triki,Neurologue,2024-11-30,2024-12-01,NON
+PAT5398,Khaled,Elloumi,39,78.1,Monastir,+216 97 495395,khaled.elloumi@email.tn,GAT,Lisinopril 10mg,2.6,24,104.53,Dr. Ghanem,Cardiologue,2024-09-19,2024-09-23,non
+PAT5399,Fatima,Ben Ali,92,67.9,Gabes,+216 38 325391,fatima.ben ali@email.tn,SNCFT,Oméprazole 20mg,2.6,18,23.52,Dr. Ayachi,Neurologue,2023-09-28,2023-09-30,OUI
